@@ -14,7 +14,7 @@ Przeciwnicy dysponują swoimi własnymi akcjami głównymi i nie mogą wykorzyst
 * Ukrywanie - jeśli postać nie jest związana walką w zwarciu, test Ukrywania; sukces - Ukryty
 * Postawa obronna - zapewnia ułatwienie w rzutach obronnych
 * Stworzenie otwarcia - zapewnia ułatwienie w następnym teście ataku przeciwko wybranemu celowi, niezależnie kto ów atak wykona
-* Użycie przedmiotu - 
+* Użycie przedmiotu - wykorzystanie jednego z przedmiotów znajdujących się na polu bitwy lub w zasobniku podręcznym
 * Zdolność specjalna - wykorzystanie jednej ze zdolności klasowej lub zapewnianej przez przedmiot magiczny
 
 ## Reakcje

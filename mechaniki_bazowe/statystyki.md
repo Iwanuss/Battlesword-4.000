@@ -6,6 +6,10 @@ Statystyki opisują poziom ekspertyzy BG w danych dziedzinach. Dzielą się one 
 * Trzeciorzędne - statystyki dodatkowe, opisują poboczne cechy i właściwości postaci, które są całkowicie niezależne od pierwszorzędnych i nie rozwijają się w zależności od wydawanych PD
 * Drużynowe - statystyki współdzielone pomiędzy wszystkimi BG, do których rozwoju składają się wszyscy członkowie drużyny i z której wszyscy wspólnie mogą korzystać
 
+Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkami są tutaj:
+* Poczytalność - 1 do 100
+* Mądrość, Pancerz, Punkty Życia, Majętność - są wartościami niepodlegającymi testom i nie posiadają górnego limitu
+
 ## Pierwszorzędne
 * Siła
 * Zręczność

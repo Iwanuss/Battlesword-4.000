@@ -42,7 +42,7 @@
 
 ## Druid
 * Mistrz Przemian - skupia sie na przmienianach w aspekty zwierzęce
-* Obrońca  - skupia się na magii natury
+* Grzybiarz  - skupia się na magii natury
 * Władca Lasów - skupia się na budowaniu armii zwierzaków
 
 ### Bardowie
