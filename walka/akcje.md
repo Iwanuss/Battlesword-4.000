@@ -18,8 +18,6 @@ Przeciwnicy dysponują swoimi własnymi akcjami głównymi i nie mogą wykorzyst
 * Zdolność specjalna - wykorzystanie jednej ze zdolności klasowej lub zapewnianej przez przedmiot magiczny
 
 ## Reakcje
-* Unik - test Uniku pozwala na całkowite zanegowanie ataku wykonywanego przez oponenta
-* Geniusz taktyczny - test Sprytu pozwala na całkowite zanegowanie ataku wykonywanego przez oponenta
-* Kontratak - zadaje obrażenia równe obrażeniom dzierżonej broni przeciwko celowi, który zaatakował postać w zwarciu
 * Wsparcie - Bohater musi uzasadnić jak zamierza wesprzeć sojusznika w wykonywanej przez niego akcji. Jeśli MG uzna wsparcie za zasadne, sojusznik zyskuje ułatwienie w wykonywanej przez siebie akcji. MG może równiez uzależnić udzielenie wsparia od wykonania jakiegoś testu.
 * Reakcja specjalna - wykorzystanie jednej ze zdolności klasowej lub zapewnianej przez przedmiot magiczny
+* Przekazanie przedmiotu - rzucenie przedmiotu do sojusznika znajdującego się w bezpośrednim sąsiedztwie (10 stóp lub ten sam sektor)

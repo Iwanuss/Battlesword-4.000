@@ -22,8 +22,9 @@ Wartością startową każdej statystyki drugorzędnej jest wartość cechy pier
 * Poczytalność = 100%
 * Mądrość - każda postać otrzymuje na start 2500 PD do wydania, po których wydaniu Mądrość powinna wynosić 2
 * Pancerz - zależny od pancerza zapewnionego przez ekwipunek początkowy
-* Punkty Życia - zależne od klasy
+* Maksymalne Punkty Życia - zależne od klasy
 * Odporność na Śmierć - 19
+* Satmina / Mana - zależne od posiadanej broni
 
 ### Drużynowe
 Początkowe wartości majątku i sławy równe są najwyższej wartości zapewnianej przez profesję członkom Drużyny.
@@ -49,11 +50,16 @@ Wybór klasy zapewnia:
 * Predyspozycje
 * Umiejętności bojowe
 * Uzbrojenie początkowe
-* Poziom staminy / many
 * Sposób obliczania Punktów Życia
 
 ## 5. Dane osobowe
-Imię, przeszłość, rodzina, najważniejsza osoba, 3 znajomych, ulubione miejsce.
+* Imię 
+* Przeszłość - historia bohatera prowadząca do momentu wkroczenia na ściężkę awanturnika
+* Niedokończony quest - misja wynikająca z przeszłości bohatera, do której będzie musiał wrócić i zmierzyć się z nią prędzej czy później
+* Rodzina - rodzice, rodzeństwo, dziadkowie, ród
+* Najważniejsza osoba - będzie ona stąłym sojusznikiem bohatera oraz całej Drużyny
+* 3 znajomych - mogą oni pojawić się w dowolnym momencie jako nieoczekiwani sojusznicy bohatera
+* Ulubione miejsce - miejsce, w którym bohater odpoczywa i relaksuje się, regenerując swoją Poczytalność
 
 ## 6. Początkowy rozwój
 Na start, Bohater otrzymuje 2500 Punktów Doświadczenia, które może natychmiastowo wydać.

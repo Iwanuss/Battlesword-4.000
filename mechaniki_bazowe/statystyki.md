@@ -24,14 +24,14 @@ Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkam
 * Ostrożność - szansa na wykrycie pułapki, uniknięcie zaskoczenia i szybkiej reakcji
 * Siła Woli - obrona przed atakami psychicznymi
 
-## Drugorzędne
-### Siła 5
+## Drugorzędne (w nawiasach ilość statystyk drugorzędnych powiązanych z daną statystyką pierwszorzędną)
+### Siła (5)
 * Atletyka - przenoszenie bardzo ciężkich przedmiotów, rozwiązania siłowe, siłowe wyrywanie się z pułapek
 * Kowalstwo - rzemiosło oparte o pracę mięśni
 * Pływanie - ustala prędkość poruszania się w wodzie, umiejętność przetrwania podczas sytuacji ekstremalnych w wodzie
 * Wspinaczka - ustala prędkość poruszania się po ścianach, umiejętność utrzymania się na nich
 * Zastraszanie - argument siły
-### Zręczność 8
+### Zręczność (8)
 * Akrobatyka - umiejętność balansowania na niewielkich powierzchniach, zwinne wyrywanie się z pułapek
 * Jeździectwo - ustala prędkość poruszania się na wierzchowcach i umiejętność utrzymywania się na nich
 * Majsterkowanie - rzemiosło oparte o pracę manualną
@@ -40,7 +40,7 @@ Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkam
 * Skradanie - umiejętnośc ukrywania się oraz cichego przemieszczania
 * Zwinne dłonie - kradzież kieszonkowa, precyzyjne operacje manualne
 * Żeglarstwo - umiejętność obsługi statków, w tym ich sterowania
-### Inteligencja 7
+### Inteligencja (7)
 * Arkana - wiedza tajemna i zakazana
 * Księgowość - zarządzanie majątkiem, umiejętności wyceny
 * Lingwistyka - znajomość egzotycznych i starożytnych języków
@@ -48,13 +48,13 @@ Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkam
 * Sztuka Przetrwania - umiejętność przetrwania poza cywilizacją oraz poziom wiedzy przyrodniczej
 * Wiedza - generalna wiedza na temat niszowych tematów
 * Wynalazczość - rzemiosło oparte o projektowanie
-### Percepcja 5
+### Percepcja (5)
 * Analiza - przeszukiwanie zbiorów w poszukiwaniu informacji
 * Nawigacja - odnajdywanie kierunków i tras, ułatwianie podróży, sterowanie pojazdami wszelakimi
 * Psychologia - określanie motywacji i emocji innych
 * Spostrzegawczość - spostrzegawczość, przeszukiwanie
 * Znajdowanie - rzemiosło oparte o percepcję
-### Charyzma 6
+### Charyzma (6)
 * Dowodzenie - przewodzenie innym, organizacja i podburzanie tłumów
 * Gadanina - nawijanie długo, acz niekoniecznie z sensem
 * Oszustwo - wciskanie kitu innym
@@ -67,8 +67,9 @@ Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkam
 * Poczytalność - stan umysłu bohatera, określa poziom delirium
 * Mądrość - poziom doświadczenia życiowego bohatera, rośnie wraz z upływem przygód
 * Pancerz - pozwala na wchłanianie i redukcję otrzymywanych obrażeń
-* Punkty Życia - określają ile jest w stanie wytrzymać bohater nim stanie u progu Bram Śmierci
+* Maksymalne Punkty Życia - określają ile jest w stanie wytrzymać bohater nim stanie u progu Bram Śmierci
 * Odporność na Śmierć - testowana za każdym razem, gdy postać otrzyma obrażenia będać u Bram Śmierci. Porażka oznacza koniec przygód.
+* Stamina / Mana - określa maksymalną ilość wmocnień ataków lub czarów z jakich można skorzystać w trakcie tury.
 
 ## Drużynowe
 * Majętność - określa możliwości finansowe oraz poziom znajomości

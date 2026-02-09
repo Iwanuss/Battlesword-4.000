@@ -2,6 +2,8 @@
 
 W przypadku Bohaterów Graczy, nie muszą oni wykonywać żadnych rzutów na trafienie oponenta. Zamiast tego, wykonują od razu rzut na obrażenia.
 
+Na obrażenia składają się podstawowe kości danej broni lub umiejętności, zwiększone o potencjalne modyfikatory oraz bonus równy statystyce powiązanej z danym atakiem.
+
 Bohaterowie Niezależni również nie wykonują rzutów na trafienie. Zamiast tego, cele ich ataków muszą wykonać rzut obronny typu wskazanego w opisie danego ataku.
 
 ## Ułatwienia i utrudnienia
@@ -12,7 +14,7 @@ Ułatwienia w walce zapewniają:
 * Przeciwnik jest bardzo duży (3x3) lub większy
 * Atakowanie powalonego celu
 * Atakowanie z przewagą wysokości
-* Atakowanie szarżą z wierzchowca
+* Atakowanie bronią druzgocącą
 
 Utrudnienia w walce narzucają:
 * Przeciwnik jest mały (1/2*1/2) lub mniejszy
