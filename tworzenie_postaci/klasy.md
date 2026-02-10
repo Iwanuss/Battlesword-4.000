@@ -53,12 +53,12 @@ Wybór klasy zapewnia:
 * Grzybiarz  - skupia się na magii natury
 * Władca Lasów - skupia się na budowaniu armii zwierzaków
 
-### Bardowie
+## Bardowie
 * Bębniarz Wojny - skupia się na melodiach bojowych i dowodzeniu sojusznikami
 * Krasomówca - skupia się na sile argumentów, łamiąc morale wroga oraz przekonywaniu wrogów do walki po jego stronie
 * Jesienny Gawędziarz - dołuje wszystkich
 
-### Rzemieślnicy
+## Rzemieślnicy
 * Kowal Run - skupia się na wzmacnianiu przedmiotów i ekwipunku, tymczasowo lub na stałe
 * Alchemik - skupia się na tworzeniu i ulepszaniu istniejących mikstur oraz  przedmiotów zużywalnych, w tym na polu bitwy
 * Grenadier - skupia się na tworzeniu i miotaniu ładunkami wybuchowymi oraz innymi nietypowymi pociskami
