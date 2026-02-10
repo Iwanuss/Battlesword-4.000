@@ -22,3 +22,4 @@ Wybór rasy zapewnia:
 * Plazmoid
 * Diablę
 * Anielę
+* Wilkołak
