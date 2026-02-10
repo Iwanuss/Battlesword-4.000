@@ -8,6 +8,7 @@ Wybór profesji zapewnia:
 * Umiejętność specjalną
 * Wyposażenie początkowe
 
+## Lista profesji
 * Akolita
 * Aptekarz
 * Bagiennik
