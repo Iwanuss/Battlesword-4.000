@@ -29,6 +29,9 @@ Wartością startową każdej statystyki drugorzędnej jest wartość cechy pier
 ### Drużynowe
 Początkowe wartości majątku i sławy równe są najwyższej wartości zapewnianej przez profesję członkom Drużyny.
 
+### Predyspozycje
+Predyspozycje w danej statystyce zapewniają zniżkę kosztu PD przy jej rozwijaniu (patrz Rozwój Postaci).
+
 ## 2. Rasa
 Wybór rasy zapewnia:
 * Bonus do statystyk pierwszorzędnych

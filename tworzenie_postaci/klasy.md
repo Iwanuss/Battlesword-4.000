@@ -1,5 +1,13 @@
 # Klasy
 
+Klasy są pogrupowane w archetypy. Archetypy nie mają żadnego przełożenia na rozgrywkę i istnieją jedynie po to, aby ułatwić przesukiwanie i wybór docelowej klasy oraz zapewnić dodatkowe deskryptory, czym dana klasa z grubsza jest.
+
+Wybór klasy zapewnia:
+* Predyspozycje
+* Umiejętności bojowe
+* Uzbrojenie początkowe
+* Sposób obliczania Punktów Życia
+
 ## Żołnierze
 * Taktyk - skupia sie na dowodzeniu i manewrach na polu bitwy
 * Łowca - skupia się na zadawaniu obrażeń poteżnym przeciwnikom
@@ -46,11 +54,11 @@
 * Władca Lasów - skupia się na budowaniu armii zwierzaków
 
 ### Bardowie
-* Bębniarz Wojny
-* Krasomówca 
-* Jesienny Gawędziarz
+* Bębniarz Wojny - skupia się na melodiach bojowych i dowodzeniu sojusznikami
+* Krasomówca - skupia się na sile argumentów, łamiąc morale wroga oraz przekonywaniu wrogów do walki po jego stronie
+* Jesienny Gawędziarz - dołuje wszystkich
 
 ### Rzemieślnicy
-* Kowal Run
-* Alchemik
-* Grenadier
+* Kowal Run - skupia się na wzmacnianiu przedmiotów i ekwipunku, tymczasowo lub na stałe
+* Alchemik - skupia się na tworzeniu i ulepszaniu istniejących mikstur oraz  przedmiotów zużywalnych, w tym na polu bitwy
+* Grenadier - skupia się na tworzeniu i miotaniu ładunkami wybuchowymi oraz innymi nietypowymi pociskami

@@ -16,9 +16,11 @@
 (N) Sława, mądrość, poczytalność
 (O) Bestiariusz - statblocki
 (P) Bestiariusz - tiery oponentów i listy modyfikatorów
-(R) Rasy
-(S) Przeszłości
-(T) Klasy
+(R) Rasy - lista
+(R) Rasy - szczegóły
+(S) Profesje - lista {cm:2026-02-09}
+(S) Profesje - szczegóły
+(T) Klasy - szczegóły
 (R) Szczęście
 (S) Pojazdy i wierzchowce
 (T) Rozwój postaci
