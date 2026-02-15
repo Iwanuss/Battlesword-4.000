@@ -13,6 +13,7 @@ Wybór profesji zapewnia:
 * Aptekarz
 * Bagiennik
 * Banita
+* Botanik
 * Chłop
 * Ciura obozowa
 * Cyrkowiec
@@ -22,6 +23,7 @@ Wybór profesji zapewnia:
 * Gladiator
 * Górnik
 * Grabarz
+* Handlarz
 * Szuler
 * Latarnik
 * Leśnik

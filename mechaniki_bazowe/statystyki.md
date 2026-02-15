@@ -63,6 +63,8 @@ Wartości większości statystyk mieszczą się w zakresie od 1 do 20. Wyjątkam
 * Sztuka - rzemiosło oparte o ekspresję
 * Targowanie - ubijanie interesów
 
+* Łącznie - 31 statystyk drugorzędnych
+
 ## Trzeciorzędne
 * Szczęście - szansa na posiadanie potrzebnych przedmiotów pod ręką oraz możliwośći przerzutów
 * Poczytalność - stan umysłu bohatera, określa poziom delirium

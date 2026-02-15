@@ -36,22 +36,22 @@ Predyspozycje w danej statystyce zapewniają zniżkę kosztu PD przy jej rozwija
 Wybór rasy zapewnia:
 * Bonus do statystyk pierwszorzędnych
 * Rozmiar
-* Cechę specjalną
-* Umiejętność specjalną
+* Pasywną cechę specjalną
+* Aktywną umiejętność specjalną
 
 ## 3. Profesja
 Wybór profesji zapewnia:
 * Predyspozycje
 * Majętność
 * Sławę
-* Cechę specjalną
-* Umiejętność specjalną
+* Pasywną cechę specjalną
+* Aktywną umiejętność specjalną
 * Wyposażenie początkowe
 
 ## 4. Klasa
 Wybór klasy zapewnia:
 * Predyspozycje
-* Umiejętności bojowe
+* Aktywne umiejętności bojowe
 * Uzbrojenie początkowe
 * Sposób obliczania Punktów Życia
 
