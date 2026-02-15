@@ -12,6 +12,7 @@ Wybór rasy zapewnia:
 * Krasnolud
 * Niziołek
 * Gnom
+* Mykonid
 * Automat
 * Centaur
 * Drakonid
