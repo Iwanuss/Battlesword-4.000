@@ -7,11 +7,19 @@ Podstawową funkcją Majętności jest określenie siły nabywczej Drużyny. Aby
 
 Nabywanie niepowszechnych magicznych przedmiotów drenuje Majętność zależnie od ich rzadkości:
 * Niezwykłe - 1
-* Zaklęte - 2
-* Potężne - 3
-* Arcymistrzowskie - 4
-* Mityczne - 5
-* Boskie - 6
+* Rzadkie - 3
+* Potężne - 10
+* Arcymistrzowskie - Niedostępne
+* Mityczne - Niedostępne
+* Boskie - Niedostępne
+
+## Rzadkość przedmiotów
+* Niezwykłe - Zapewniają jeden prosty bonus (kaliber broni +1)
+* Rzadkie - Zapewniają dwa proste bonusy (kaliber tarczy z okiem)
+* Potężne - Zapewniają unikalny bonus lub sposób działania (kaliber miotły do latania)
+* Arcymistrzowskie - Zapewniają kilka unikalnych bonusów lub bonus wielkiego znaczenia (kaliber gadającego legendarnego miecza)
+* Mityczne - Zapewniają liczne bonusy oraz nowe możliwości, unikatowe w skali całego settingu (kaliber Papieskiego Miecza)
+* Boskie - Pozwalają na kształtowanie otaczającej rzeczywistości (kaliber Ostrza Przeznaczenia)
 
 ## Zwiększanie majętności
 * Zdobywanie złota - Wzrost Majętności może być jedną z nagród w trakcie przygód jakie może zdobyć Drużyna. W momencie, w którym Drużyna zdobędzie odpowiednio duży skarb, np. smoczą górę zlota lub skarbiec złola, MG może nagrodzić Drużynę odpowiednim wzrostem tej statystyki. Majętność powinna wzrastać na wyższy poziom, gdy Drużyna uzbiera złoto w ilości (nowy poziom x 1000).

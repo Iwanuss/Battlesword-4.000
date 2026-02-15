@@ -11,11 +11,13 @@ W przypadku przeciwników, każdy typ pancerza zapewnia im inny efekt:
 ## Typy obrażeń
 * Fizyczne
 * Ogniste
-* Lodowe
+* Zimne
 * Elektryczne
 * Chaotyczne
 * Żrące
 * Święte
+
+Obrażenia od ognia, lodu i elektryczności są zbiorowo określane jako obrażenia od żywiołów.
 
 Odporność na dany typ obrażeń pozwala na zredukowanie otrzymywanych obrażeń o połowę. Podatność podwaja otrzymywane obrażenia, a niewrażliwość redukuje otrzymywane obrażenia o 100%. Odporności i podatności naliczane są przed uwzględnieniem redukcji wynikających z pancerza lub innych źródeł.
 

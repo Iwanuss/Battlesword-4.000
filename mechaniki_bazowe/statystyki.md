@@ -2,7 +2,8 @@
 
 Statystyki opisują poziom ekspertyzy BG w danych dziedzinach. Dzielą się one na:
 * Pierwszorzędne - cechy główne, określające 5 generalnych kategorii opisujących BG
-* Drugorzędne - szczegółowe umiejętności, każda opiera się na jednej ze statystyk pierwszorzędnych i rozwija się zarówno z nią, jak i samodzielnie
+* Defensywne - opierają się na statystykach pierwszorzędnych i opisują możliwości opierania się atakom różnych typów, ich bazową wartością jest wartość korespondującej statystyki pierwszorzędnej
+* Drugorzędne - szczegółowe umiejętności, każda opiera się na jednej ze statystyk pierwszorzędnych i rozwija się zarówno z nią, jak i samodzielnie, ich bazową wartością jest wartość korespondującej statystyki pierwszorzędnej
 * Trzeciorzędne - statystyki dodatkowe, opisują poboczne cechy i właściwości postaci, które są całkowicie niezależne od pierwszorzędnych i nie rozwijają się w zależności od wydawanych PD
 * Drużynowe - statystyki współdzielone pomiędzy wszystkimi BG, do których rozwoju składają się wszyscy członkowie drużyny i z której wszyscy wspólnie mogą korzystać
 
