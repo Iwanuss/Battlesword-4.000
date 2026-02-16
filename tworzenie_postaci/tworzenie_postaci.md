@@ -52,6 +52,7 @@ Wybór profesji zapewnia:
 Wybór klasy zapewnia:
 * Predyspozycje
 * Aktywne umiejętności bojowe
+* Aktywne umiejętności eksploracyjne
 * Uzbrojenie początkowe
 * Sposób obliczania Punktów Życia
 
