@@ -1,4 +1,4 @@
-# Aptekarz
+# Urzędnik Skarbowy
 
 ## Predyspozycje
 ### Pierwszorzędne
