@@ -35,7 +35,7 @@
 ## Słowniczek
 * Obrażenia - Postawowa ilośc kości wykorzystywanych przy ustalaniu obrażeń.
 * Użycie - Bronie mogą być jednoręczne, dwuręczne lub offhandowe (czyli mogą być trzymane jedynie z drugiej ręce). Bronie jednoręczne mogą być trzymane w obydwu dłoniach.
-* Bazowa statystyka - Określa która statystyka pierwszorzędna jest bazą do obliczenia Staminy dla danej broni. Wartość statystyki pierwszorzędnej jest również dodawana do obrażeń zadawanych przez daną broń.
+* Bazowa statystyka - Określa która statystyka pierwszorzędna jest bazą do obliczenia Staminy dla danej broni. Stamina wynosi połowę wartości tej statystyki. Połowa wartości statystyki pierwszorzędnej jest również dodawana do obrażeń zadawanych przez daną broń.
 * Wszechstronny - Zapewnia darmowe użycie jednego wzmocnienia umiejętności w trakcie rundy, wyłączając bezpośrednie zwiększenie obrażeń.
 * Przeciwpancerny - Na potrzeby określenia obrażeń, zmniejsza klasę pancerza oponenta o 1.
 * Parujący - Jeśli postać uzbrojona w taką broń obroni się przed atakiem wykonywanym w zwarciu, automatyczie zadaje atakującemu podstawowe obrażenia.
@@ -49,7 +49,7 @@
 * Rąbiący - W przypadku ciosu krytycznego, na stałe zmniejsza klasę pancerza oponenta o 1.
 * Wysysający - Postać atakującą tą bronią odzyskuje Punkty Życia w wysokości 1/4 zadanych obrażeń.
 * Krótki - Ataki tą bronią obarczone są utrudnieniem poza atakami z ukrycia lub zaskoczenia.
-* Skrytobójczy - Ataki wykonywane tą bronią z ukrycia lub zaskoczenia omijają całkowicie pancerz oponenta kosztem 1 Staminy. Kosztem kolejnego 1 punktu Staminy, nakładają na przeciwnika 1 poziomu Zatrucia.
+* Skrytobójczy - Ataki wykonywane tą bronią z ukrycia lub zaskoczenia omijają całkowicie pancerz oponenta kosztem 1 Staminy. Kosztem kolejnego 1 punktu Staminy, nakładają na przeciwnika 1 poziom Zatrucia.
 * Krytyczny - Ciosy krytyczne wykonane tą bronią zapewniają 2 dodatkowe kostki w miejsce 1 za każdy maksymalny wynik wyrzucony na innych kościach.
 * Kawalerysjki - Z broni tej można korzystać jedynie dosiadając wierzchowca.
 * Szybkostrzelny - Kosztem 1 Staminy pozwala na zadanie obrażeń przeciwnikowi stojącemu bezpośrednio obok innemu celowi ataku. Pozwala również na wykonywanie dodatkowych ataków przeciwko hordom kosztem 1 Staminy / atak.

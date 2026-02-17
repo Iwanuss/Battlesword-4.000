@@ -17,7 +17,7 @@
 
 ## Uzbrojenie początkowe
 * Łuk
-* Sztylet sprężynowy +1
+* [Niezwykły] Sztylet sprężynowy (+1 kostka obrażeń)
 * Sztylet
 * Skórznia
 

@@ -4,6 +4,8 @@ Drużyna Bohaterów zawsze wykonuje swoje akcje naprzemiennie z przeciwnikami. K
 * Zaskoczenie - Jeśli Drużyna Bohaterów zostanie zaskoczona, jako pierwsi, swoje akcje wykonują przeciwnicy.
 * Walka z bossem - Jeśli w starciu bierze udział boss, wykonuje on 1 akcję po każdej zakończonej turze Bohatera.
 
+Miniony Bohaterów wykonują swoje tury natychmiastowo po turze dowodzącego nimi Bohatera. Przeciwnicy nie mogą rozdzielić tur Bohatera i jego minionów.
+
 ## Zaskoczenie
 Zaskoczenie ma miejsce wtedy, gdy jedna ze stron starcia podejmuje działanie, zanim druga zorientuje się w zagrożeniu. Zwykle dochodzi do niego gdy:
 * przeciwnicy nie spodziewają się konfrontacji,
