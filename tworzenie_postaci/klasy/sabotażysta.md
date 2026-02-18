@@ -7,6 +7,7 @@
 ### Defensywne
 * Unik
 * Spryt
+* Ostrożność
 
 ### Drugorzędne
 * Wspinaczka

@@ -1,8 +1,7 @@
 # Człowiek
 
 ## Bonusy
-* +2 do Charyzmy
-* -1 do Percepcji
+* +1 do Charyzmy
 
 ## Rozmiar
 Średni

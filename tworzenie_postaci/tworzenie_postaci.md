@@ -61,7 +61,7 @@ Wybór klasy zapewnia:
 * Przeszłość - historia bohatera prowadząca do momentu wkroczenia na ściężkę awanturnika
 * Niedokończony quest - misja wynikająca z przeszłości bohatera, do której będzie musiał wrócić i zmierzyć się z nią prędzej czy później
 * Rodzina - rodzice, rodzeństwo, dziadkowie, ród
-* Najważniejsza osoba - będzie ona stąłym sojusznikiem bohatera oraz całej Drużyny
+* Najważniejsza osoba - będzie ona stałym sojusznikiem bohatera oraz całej Drużyny
 * 3 znajomych - mogą oni pojawić się w dowolnym momencie jako nieoczekiwani sojusznicy bohatera
 * Ulubione miejsce - miejsce, w którym bohater odpoczywa i relaksuje się, regenerując swoją Poczytalność
 

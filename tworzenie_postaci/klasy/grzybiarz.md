@@ -22,7 +22,7 @@
 
 ## Punkty życia
 * Bazowa wartość = 10 + Wytrzymałość
-* Bazowa Bariera = Siła Woli
+* Bazowa Bariera = Wytrzymałość + Ostrożność
 
 ## Startowe aktywne umiejętności bojowe
 ### Opętanie zarodnikami (trepy)
@@ -40,7 +40,7 @@
 ### Grzybica
 * Czas aktywacji - Akcja
 * Zasięg - Bezpośredni (obecny sektor)
-* Opis - Zadaje 1k10 obrażeń żrących
+* Opis - Zadaje 1k8 obrażeń żrących
 * Wzmocnienia
     * Zwiększenie zasięgu do krótkiego - 1 many
     * Zwiększenie zasięgu do średniego - 2 many
@@ -49,6 +49,7 @@
     * Atak trafia wszystkie cele w wybranym sektorze w zasięgu - 3 many
     * Atak trafia wszystkich przeciwników w wybranym sektorze w zasięgu - 6 many
     * Nakłada 1 poziom zatrucia - 1 many
+    * Zagrzybienie obszaru - 2 many
 
 ## Aktywne umiejętności bojowe do wykupienia
 ### Nekrofagiczne mycelia

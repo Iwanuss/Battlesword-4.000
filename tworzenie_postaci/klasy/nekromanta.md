@@ -62,11 +62,10 @@
     * Zwiększenie zasięgu do krótkiego - 1 many
     * Zwiększenie zasięgu do średniego - 2 many
     * Zwiększenie zasięgu do długiego - 3 many
-    * Zwiększenie obrażeń o 1k6 - 1 many
+    * Zwiększenie obrażeń o 1k8 - 1 many
     * Atak trafia wszystkie cele w wybranym sektorze w zasięgu - 3 many
     * Atak trafia wszystkich przeciwników w wybranym sektorze w zasięgu - 6 many
-    * Nakłada 1 poziom paniki
-     - 1 many
+    * Nakłada 1 poziom paniki - 1 many
 
 ### Wskrzeszanie umarłych (elita)
 * Wymagania - Mądrość 3

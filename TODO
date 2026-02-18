@@ -9,7 +9,7 @@
 (H) Walka - ruch {cm:2025-12-07}
 (I) Ekwipunek - majętność {cm:2025-12-08}
 (J) Ekwipunek - bronie {cm:2026-02-09}
-(J) Walka - stamina, mana i podstawowe ataki
+(J) Walka - stamina, mana i podstawowe ataki {cm:2026-02-18}
 (K) Ekwipunek - pancerze {cm:2026-02-09}
 (L) Ekwipunek - consumable {cm:2026-02-15}
 (M) Ekwipunek - magiczne itemy
@@ -17,21 +17,24 @@
 (O) Bestiariusz - statblocki
 (P) Bestiariusz - tiery oponentów i listy modyfikatorów
 (R) Rasy - lista {cm:2026-02-10}
-(R) Rasy - szczegóły
+(R) Rasy - szczegóły {cm:2026-02-17}
 (S) Profesje - lista {cm:2026-02-10}
-(S) Profesje - szczegóły
-(T) Klasy - szczegóły
+(S) Profesje - szczegóły {cm:2026-02-17}
+(T) Klasy - szczegóły {cm:2026-02-17}
 (R) Szczęście
 (S) Pojazdy i wierzchowce
 (T) Rozwój postaci {cm:2026-02-10}
+(U) Typy terenów
 (U) Perki
+(V) Dual wielding
 (V) Współpraca
 (W) Przerwy między przygodami
 (X) Walka - osłony i cięzki teren
-(Y) Magia
+(Y) Magia - Magia użytkowa
+(Y) Magia - Manify
 (Z) Statusy
-(Z) Reputacja
 (Z) Miniony
 (Z) Żegluga i bitwy morskie
 (Z) Bitwy lądowe
 (Z) Crafting
+(Z) Delirium
