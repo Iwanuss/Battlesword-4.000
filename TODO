@@ -13,7 +13,7 @@
 (K) Ekwipunek - pancerze {cm:2026-02-09}
 (L) Ekwipunek - consumable {cm:2026-02-15}
 (M) Ekwipunek - magiczne itemy
-(N) Sława, mądrość, poczytalność
+(N) Sława, mądrość, poczytalność {cm:2026-02-26}
 (O) Bestiariusz - statblocki
 (P) Bestiariusz - tiery oponentów i listy modyfikatorów
 (R) Rasy - lista {cm:2026-02-10}
@@ -38,3 +38,4 @@
 (Z) Bitwy lądowe
 (Z) Crafting
 (Z) Delirium
+(Z) Skradanie

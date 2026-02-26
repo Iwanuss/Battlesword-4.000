@@ -2,7 +2,7 @@
 
 Drużyna Bohaterów zawsze wykonuje swoje akcje naprzemiennie z przeciwnikami. Kolejność wykonywania tur zależy wyłącznie od wewnętrznych ustaleń Drużyny, lecz wszystkie akcje jednego Bohatera muszą zostać wykorzystane nim swoją turę rozpocząć będzie mógł kolejny. Po każdej turze Bohatera, swoje akcje wykonuje jeden z przeciwników, których kolejność ustala MG wedle swojego uznania. Obydwie strony wykonują swoje tury naprzemiennie, aż po jednej ze stron nie wyczerpią się kombatanci. Jeśli jedna ze stron ma ich więcej, wykonują oni swojen tury pod rząd na sam koniec. Od tej zasady istnieją dwa wyjątki:
 * Zaskoczenie - Jeśli Drużyna Bohaterów zostanie zaskoczona, jako pierwsi, swoje akcje wykonują przeciwnicy.
-* Walka z bossem - Jeśli w starciu bierze udział boss, wykonuje on 1 akcję po każdej zakończonej turze Bohatera.
+* Walka z bossem - Jeśli w starciu bierze udział boss, wykonuje on 1 akcję (oraz 1 dodatkowy ruch) po każdej zakończonej turze Bohatera.
 
 Miniony Bohaterów wykonują swoje tury natychmiastowo po turze dowodzącego nimi Bohatera. Przeciwnicy nie mogą rozdzielić tur Bohatera i jego minionów.
 

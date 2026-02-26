@@ -49,7 +49,7 @@
     * Zwiększenie obrażeń o 1k6 - 1 many
     * Atak trafia wszystkie cele w wybranym sektorze w zasięgu - 3 many
     * Atak trafia wszystkich przeciwników w wybranym sektorze w zasięgu - 6 many
-    * Przywraca HP równe zadanym obrażeniom po odliczeniu defensyw
+    * Przywraca HP równe zadanym obrażeniom po odliczeniu defensyw - 3 many
     * Nakłada 1 poziom zamrożenia - 1 many
 
 ## Aktywne umiejętności bojowe do wykupienia

@@ -39,7 +39,7 @@ Las Velumira nie jest zwykłym skupiskiem drzew - to prastary bór i przestrzeń
 * Mykonidy nie muszą mówić na głos do innych mykoidów. Wypuszczają niewidoczne chmury zarodników, które pozwalają im przesyłać obrazy, emocje i proste myśli w promieniu 100 metrów.
 
 ## Aktywna umiejętność specjalna
-* Fungalne egzospory mykoidalne - W ramach akcji, umożliwia na wypełnienie całego sektora mapy zarodnikami. Sojusznicy kończący swoją turę w chmurze zarodników uzyskują małe leczenie (25%+1d4). Przeciwnicy wchodzący w chmurę pierwszy raz w swojej turze otrzymują 2k6 obrażeń żrących i zyskują 1 stan zatrucia. Chmura utrzymuje się przez 3 rundy. Z umiejętności można skorzystać raz na walkę.
+* Fungalne egzospory mykoidalne - W ramach akcji, umożliwia na wypełnienie całego sektora, w którym znajduje się Bohater zarodnikami. Sojusznicy kończący swoją turę w chmurze zarodników uzyskują małe leczenie (25%+1d4). Przeciwnicy wchodzący w chmurę pierwszy raz w swojej turze otrzymują 2k6 obrażeń żrących i zyskują 1 stan zatrucia. Chmura utrzymuje się przez 3 rundy. Z umiejętności można skorzystać raz na walkę.
 * Ekspansja Mycelium: Podczas długiego odpoczynku Mykonid może zapuścić w ziemię mikroskopijne nitki grzybni. Dzięki temu „staje się” okolicą. Nie można go zaskoczyć, a on sam wyczuwa ruch każdej istoty dotykającej ziemi w promieniu 500 metrów. Musi być to jednak ziemia, która jest częscią większej całości a nie doniczka lub wanna z ziemią. Gdy wchodzi w ten tryb jego ciało transformuje sie zlewając się z lokalna fałną oraz tkanką rzeczywistości przebywając częściowo jednocześnie na planie materialnym oraz Feywild.
 
 ## Słabości
