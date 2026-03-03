@@ -3,6 +3,10 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.3
+(!) Walka: Typy terenów
+(+) Ekwipunek: Majętność - Targowanie, kosztowności i złoto
+
 # 0.1.2
 (!) Walka: Stamina, mana i postawowe ataki
 (!) Mechaniki bazowe: Mądrość

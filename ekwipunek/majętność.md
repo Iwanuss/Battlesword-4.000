@@ -27,3 +27,6 @@ Nabywanie niepowszechnych magicznych przedmiotów drenuje Majętność zależnie
 * Inwestycje - W ramach przerwy między przygodami, jeden z członków Drużyny może spróbować wykorzystać swoje umiejętności Księgowości, aby zainwestować część Majętności w celu pomnożenia majątku. Więcej o inwestycjach w rozdziale o przerwach między przygodami.
 * Działalność gospodarcza - Drużyna może również wziąć sprawy w swoje ręce i podjąć się prowadzenia działalności gospodarczej. Zależnie od ich talentów oraz typu działalności, Majętność może rosnąć na różne sposoby. Więcej w nadchodzącym doadtku o działalnościach gospodarczych.
 * Nadania i nagrody - W ramach zapłaty za wykonywane misje lub w ramach nadań budżetu na misje z ramienia patrona lub organizacji, Majętność może wzrosnąć na stałe lub tymczasowo. Każda zmiana wartości Sławy powinna również znajdować swoje odzwierciedlenie w Majętności.
+
+### Targowanie - Kosztowności i złoto
+Za każdym razem, gdy Druzyna zbierze odpowiednią ilość kosztowności lub złota, aby podnieść swoją Majętność, jej członkowie mogą próbować je upłynnić. W trakcie sprzedaży, należy wykonać test Targowania. Sukces oznacza, że Majętność zwiększa się o 1. Co 3 dodatkowe sukcesy, Majętność zwiększa o dodatkowy punkt. Porażka oznacza, że Majętność zwiększa się o 0,5 punktu.
