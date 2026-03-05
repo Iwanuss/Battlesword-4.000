@@ -6,6 +6,7 @@
 # 0.1.3
 (!) Walka: Typy terenów
 (+) Ekwipunek: Majętność - Targowanie, kosztowności i złoto
+(+) Ekwipunek: Przedmioty magiczne / Rzadkie / Maska Tharizduna
 
 # 0.1.2
 (!) Walka: Stamina, mana i postawowe ataki
