@@ -35,7 +35,7 @@ Las Velumira nie jest zwykłym skupiskiem drzew - to prastary bór i przestrzeń
 
 ## Pasywna cecha specjalna
 * Więź z mycellium - Zapewnia ułatwienia do testów opartych o Percepcję podczas przebywania w lesie.
-* Odporność Prastarej Harmonii: Dzięki swojej unikalnej fizjologii są odporni na trucizny oraz efekty zauroczenia, które działają tylko na istoty o czysto humanoidalnych mózgach.
+* Odporność Prastarej Harmonii: Dzięki swojej unikalnej fizjologii są odporni na obrażenia żrące.
 * Mykonidy nie muszą mówić na głos do innych mykoidów. Wypuszczają niewidoczne chmury zarodników, które pozwalają im przesyłać obrazy, emocje i proste myśli w promieniu 100 metrów.
 
 ## Aktywna umiejętność specjalna
@@ -43,4 +43,4 @@ Las Velumira nie jest zwykłym skupiskiem drzew - to prastary bór i przestrzeń
 * Ekspansja Mycelium: Podczas długiego odpoczynku Mykonid może zapuścić w ziemię mikroskopijne nitki grzybni. Dzięki temu „staje się” okolicą. Nie można go zaskoczyć, a on sam wyczuwa ruch każdej istoty dotykającej ziemi w promieniu 500 metrów. Musi być to jednak ziemia, która jest częscią większej całości a nie doniczka lub wanna z ziemią. Gdy wchodzi w ten tryb jego ciało transformuje sie zlewając się z lokalna fałną oraz tkanką rzeczywistości przebywając częściowo jednocześnie na planie materialnym oraz Feywild.
 
 ## Słabości
-* Wrażliwość na Wysuszenie: Jeśli Mykonid przebywa w skrajnie suchym lub gorącym miejscu (pustynia, bliskość kuźni) przez więcej niż 4 godziny bez kontaktu z wodą, otrzymuje karę do testów.
+* Wrażliwość na Wysuszenie: Podatność na obrażenia od ognia

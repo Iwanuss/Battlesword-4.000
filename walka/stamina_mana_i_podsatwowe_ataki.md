@@ -20,7 +20,7 @@ Podstawowe ataki w zwarciu można wzmocnić w następujący sposób:
 
 ### Ataki bronią dystansową
 Podstawowe ataki z dystansu można wzmocnić w następujący sposób:
-* Dodatkowa kostka obrażeń - 2 staminy
+* Dodatkowa kostka obrażeń - 1 staminy
 * Nałożenie 1 poziomu krwawienia - 1 staminy 
 * Przycelowanie we wrażliwy punkt - 3 staminy
 

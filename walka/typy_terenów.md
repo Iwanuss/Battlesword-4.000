@@ -38,7 +38,7 @@ Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren,
 Każdy NPC automatycznie otrzymuje 4k6 obrażeń od ognia i 1 poziom Podpalenia.
 
 ### Zagrzybiały
-Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Wytrzymałości. W przypadku porażki, otrzymuje 1k6 obrażeń żrących i 1 poziom Zatrucia za każdy poziom porażki.
+Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na zagrzybiały teren, musi wykonać test Wytrzymałości. W przypadku porażki, otrzymuje 1k6 obrażeń żrących i 1 poziom Zatrucia za każdy poziom porażki.
 
 Każdy NPC automatycznmie otrzymuje 1k6 obrażeń żrących i 1k4 poziomów Zatrucia.
 
