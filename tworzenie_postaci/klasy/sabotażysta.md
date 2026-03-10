@@ -36,7 +36,6 @@
     * Zwiększenie obrażeń o 1k10 - 1 staminy
     * Zwiększenie szans na aktywację pułapki o 5% - 1 staminy
     * Obszar pozostaje pokryty pułapkami po aktywacji - 1 staminy
-    * Zwiększenie obszaru działania o 5 stóp - 1 staminy
     * Zwiększenie obszaru działania o 1 sektor - 6 staminy
 
 ### Pozbawienie pancerza
@@ -73,7 +72,6 @@
 * Opis - Atakowanie celów znajdujących się w danym sektorze obarczone są utrudnieniem. Testy skradania się na tym obszarze są wykonywane z ułatwieniem.
 * Wzmocnienia
     * Wydłużenie czasu trwania o 1 rundę - 1 staminy
-    * Zwiększenie obszaru działania o 5 stóp - 1 staminy
     * Zwiększenie obszaru działania o 1 sektor - 6 staminy
 
 ### Opóźniony zapłon
@@ -90,7 +88,7 @@
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
 * Opis - Zużywa 10 staminy. Można użyć raz na walkę. Wybrany przeciwnik otrzymuje 5k10+10 obrażeń od ognia. Kolejny najbliższy przeciwnik otrzymuje 4k10+8 obrażeń od ognia, następny 3k10+6, kolejny 2k10+4 i ostatni 1k10+2. W przypadku, gdy więcej niż jeden przeciwnik jest w tej samej odległości od poprzedniego, Bohater może samemu wybrać kolejny cel spośród nich.
-* Wzmocnienie - Zwiększeni zadawanych obrażeń o 1k10+2 i dodanie kolejnego celu - 5 staminy
+* Wzmocnienie - Zwiększenie zadawanych obrażeń o 1k10+2 i dodanie kolejnego celu - 5 staminy
 
 ## Startowe aktywne umiejętności eksploracyjne
 ### Zepsucie maszyny

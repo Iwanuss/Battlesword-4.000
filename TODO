@@ -21,15 +21,15 @@
 (T) Klasy - szczegóły {cm:2026-02-17}
 (O) Walka - Typy terenów {cm:2026-03-03}
 (O) Walka - Statusy {cm:2026-03-09}
-(O) Walka - Dual wielding
-(P) Walka - Skradanie
-(P) Walka - Miniony
-(P) Bestiariusz - Morale
-(R) Odpoczynek
-(R) Szczęście
-(S) Pojazdy i wierzchowce
-(T) Ekwipunek - magiczne itemy
-(U) Perki
+(P) Perki {cm:2026-03-10}
+(P) Walka - Dual wielding
+(R) Walka - Skradanie
+(R) Walka - Miniony
+(R) Bestiariusz - Morale
+(S) Odpoczynek
+(S) Szczęście
+(T) Pojazdy i wierzchowce
+(U) Ekwipunek - magiczne itemy
 (V) Współpraca
 (W) Przerwy między przygodami
 (W) Bestiariusz - statblocki

@@ -15,7 +15,7 @@ Oprócz zdolności specjalnych wynikających z rasy, profesji czy klasy, Bohater
 ### Ataki bronią białą
 Podstawowe ataki w zwarciu można wzmocnić w następujący sposób:
 * Dodatkowa kostka obrażeń - 1 staminy
-* Dodatkowe trafienie przeciwnika sąsiadującego z celem - 1 staminy
+* Dodatkowe trafienie przeciwnika znajdującego się w tym samym sektorze - 1 staminy
 * Nałożenie 1 poziomu krwawienia - 1 staminy 
 
 ### Ataki bronią dystansową

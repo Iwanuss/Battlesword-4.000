@@ -5,13 +5,17 @@
 
 # 0.1.4
 (!) Walka: Statusy
+(!) Tworzenie postaci: Perki (nowe opcje rozwoju postaci)
 (*) Grzybiarz: Grzybica - Wzmocnienia: Zwiększenie obrażeń o 1k8 zamiast o 1k10
+(-) Sabotażysta: Rozstawienie pułapki - Zwiększenie obszaru działania o 5 stóp - 1 staminy
+(-) Sabotażysta: Zasłona dymna - Zwiększenie obszaru działania o 5 stóp - 1 staminy
+(*) Stamina, Mana i podstawowe ataki: Ataki bronią białą - Dodatkowe trafienie przeciwnika znajdującego się w tym samym sektorze - 1 staminy zamiast Dodatkowe trafienie przeciwnika sąsiadującego z celem
 
 # 0.1.3
 (!) Walka: Typy terenów
 (+) Ekwipunek: Majętność - Targowanie, kosztowności i złoto
 (+) Ekwipunek: Przedmioty magiczne / Rzadkie / Maska Tharizduna
-(*) Walka: Stamina, Mana i podstawowe ataki - Ataki bronią dystansową: Dodatkowa kostka obrażeń - 1 staminy zamiast 2 staminy
+(*) Stamina, Mana i podstawowe ataki - Ataki bronią dystansową: Dodatkowa kostka obrażeń - 1 staminy zamiast 2 staminy
 
 # 0.1.2
 (!) Walka: Stamina, mana i postawowe ataki
