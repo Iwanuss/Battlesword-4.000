@@ -45,7 +45,7 @@
 * Wyprzedzający - Jeśli postać uzbrojona w taką broń zostanie zaatakowana w zwarciu, przed wykonaniem testu, może wykorzystać swoją reakcję, aby zaatakować oponenta.
 * Dowodzący - Pozwala na wykorzystywanie Staminy do wydawania rozkazów na polu bitwy. Więcej o rozkazach w rozdziale poświęconym minionom.
 * Magiczny - Stamina zamienia się w Manę pozwalającą na wzmacnianie rzucanych zaklęć.
-* Kanalizujący - Na początku starcia pozwala na wykonanie testu Arkanów. Ilość sukcesów podzielona na 2 i zaokrąglona w górę staje się dodatkową pulą Many do wykorzystania w trakcie całej walki.
+* Kanalizujący - Zwiększa bazowy poziom Many o ilość rozwinięć statystyki Arkana.
 * Rąbiący - W przypadku ciosu krytycznego, na stałe zmniejsza klasę pancerza oponenta o 1.
 * Wysysający - Postać atakującą tą bronią odzyskuje Punkty Życia w wysokości 1/4 zadanych obrażeń.
 * Krótki - Ataki tą bronią obarczone są utrudnieniem poza atakami z ukrycia lub zaskoczenia.

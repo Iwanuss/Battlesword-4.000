@@ -21,3 +21,4 @@ Przeciwnicy dysponują swoimi własnymi akcjami głównymi i nie mogą wykorzyst
 * Wsparcie - Bohater musi uzasadnić jak zamierza wesprzeć sojusznika w wykonywanej przez niego akcji. Jeśli MG uzna wsparcie za zasadne, sojusznik zyskuje ułatwienie w wykonywanej przez siebie akcji. MG może równiez uzależnić udzielenie wsparia od wykonania jakiegoś testu.
 * Reakcja specjalna - wykorzystanie jednej ze zdolności klasowej lub zapewnianej przez przedmiot magiczny
 * Przekazanie przedmiotu - rzucenie przedmiotu do sojusznika znajdującego się w bezpośrednim sąsiedztwie (10 stóp lub ten sam sektor)
+* Przyjęcie ciosu - jeśli sojusznik będący celem ataku i znajdujący się w tym samym sektorze wykona rzut defensywny i poniesie w nim porażkę, należy wykonać ten sam test defensywny. Sukces oznacza otrzymanie obrażeń wynikających z ataku zamiast sojusznika.

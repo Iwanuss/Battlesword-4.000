@@ -30,7 +30,7 @@ Predyspozycja w danej statystyce zapewnia zniżkę 50% przy jej rozwijaniu. Podw
 * Mądrość - za każde WYDANE 1000 PD, wartość Mądrości rośnie o 1
 * Maksymalne Punkty Życia - zwiększenie Max PŻ o 1 kosztuje 100 PD. Każde kolejne rozwinięcie kosztuje o 100 PD więcej.
 * Odporność na Śmierć - regeneruje się w tempie 1 dziennie.
-* Stamina / Mana - maksymalna wartość rośnie wraz z rozwijaniem cechy powiązanej z daną bronią.
+* Stamina / Mana - bazowa wartość rośnie wraz z rozwijaniem cechy powiązanej z daną bronią.
 
 ## Umiejętności oraz perki
 Po spełnieniu wymagań, należy wydać ilość PD wyszczególnioną przy danej umiejętności lub perku, aby je odblokować.

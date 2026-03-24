@@ -23,5 +23,5 @@ Rzut 1k10:
 6. Bezsenność - Przez kolejne 1k10 dni, Bohater zaczyna je z 1 poziomem Zmęczenia.
 7. Przygnębienie - Wszystkie statystyki pierwszorzędne spadają o 2 do końca dnia.
 8. Złamana wola - Maksymalne HP spada o połowę do końca dnia.
-9. Otępienie - Stamina i Mana spadają do maksymalnej wartości 3 do końca dnia.
+9. Otępienie - Stamina i Mana spadają do bazowej wartości 3 do końca dnia.
 10. Szał bojowy - Do końca dnia postać zadaje podwójne obrażenia. Na początku każdej swojej tury musi wykonać test Siły Woli (-6). Porażka oznacza, że losuje losowy najbliższy cel.
