@@ -3,6 +3,10 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+
+# 0.1.7
+(!) Walka: Dual wielding
+
 # 0.1.6
 (!) Mechaniki bazowe: Przerwy między przygodami
 (*) Maksymalna Stamina / Mana zmieniona na Bazową Staminę / Manę
