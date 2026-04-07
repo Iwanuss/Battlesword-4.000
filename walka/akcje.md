@@ -16,6 +16,7 @@ Przeciwnicy dysponują swoimi własnymi akcjami głównymi i nie mogą wykorzyst
 * Stworzenie otwarcia - zapewnia ułatwienie w następnym teście ataku przeciwko wybranemu celowi, niezależnie kto ów atak wykona
 * Użycie przedmiotu - wykorzystanie jednego z przedmiotów znajdujących się na polu bitwy lub w zasobniku podręcznym
 * Zdolność specjalna - wykorzystanie jednej ze zdolności klasowej lub zapewnianej przez przedmiot magiczny
+* Szukanie - test Spostrzegawczości; sukces - spostrzeżenie ukrytej postaci
 
 ## Reakcje
 * Wsparcie - Bohater musi uzasadnić jak zamierza wesprzeć sojusznika w wykonywanej przez niego akcji. Jeśli MG uzna wsparcie za zasadne, sojusznik zyskuje ułatwienie w wykonywanej przez siebie akcji. MG może równiez uzależnić udzielenie wsparia od wykonania jakiegoś testu.

@@ -6,6 +6,8 @@
 
 # 0.1.7
 (!) Walka: Dual wielding
+(!) Walka: Skradanie
+(+) Akcje: Akcje główne - Szukanie
 
 # 0.1.6
 (!) Mechaniki bazowe: Przerwy między przygodami
