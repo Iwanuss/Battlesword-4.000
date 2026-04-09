@@ -22,16 +22,16 @@ Ilość sukcesów podzielona na 3 i zaokrąglona w górę w tym teście jest pod
 ## Wytwórstwo
 Postać zajmuje się wytwarzaniem lub ulepszaniem różnych przedmiotów. Należy ustalić:
 * Co ma być wytworzone
-* Rzadkość prezedmiotu
+* Rzadkość przedmiotu
 * Koszt składników nbiezbędnych do wytworzenia (np. magiczna zbroja płytowa będzie droższa do wytworzenia niż magiczna skórznia o tych samych cechach)
 
 Im potężniejszy, rzadszy i droższy przedmiot, tym wyższy będzie poziom trudności wytwórstwa. To z kolei wpłynie na ilość niezbędnych sukcesów w testach wytwórstwa, aby ukończyć dany przedmiot. Testy te będą podzielone pomiędzy kilka statystyk:
 * Kowalstwo
 * Majsterkowanie
-* Wynalaczość
-* Znajdowanie
+* Wynalaczość - 5/5
+* Znajdowanie - 0/5
 * Sztuka
-* oraz jeśli wytwórstwo ma związek z badaniami magicznymi - Arkana
+* oraz jeśli wytwórstwo ma związek z badaniami magicznymi - Arkana - 5/5
 
 W ramach akcji, postać może wykonać 3 wybrane testy, by progresować poszczególne wymagania. Mogą to być 3 testy różnych statystyk lub tych samych, powtarzających się.
 

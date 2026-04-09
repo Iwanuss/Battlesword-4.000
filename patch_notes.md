@@ -3,6 +3,8 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.8
+(+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
 
 # 0.1.7
 (!) Walka: Dual wielding
