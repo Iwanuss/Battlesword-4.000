@@ -4,6 +4,7 @@
 (!) - Całkowicie nowe
 
 # 0.1.8
+(!) Ekwipunek: Paski
 (+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
 
 # 0.1.7
