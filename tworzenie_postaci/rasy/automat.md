@@ -11,7 +11,7 @@
 Średni
 
 ## Pasywna cecha specjalna
-Nie pije, nie śpi, a jeździ - Automat może ignorować efekty Zmęczenia tak długo jak nie są onme śmiertelne.
+Nie pije, nie śpi, a jeździ - Automat może ignorować efekty Zmęczenia tak długo jak nie są one śmiertelne.
 
 ## Aktywna umiejętność specjalna
 Przeciążenie - W ramach akcji, może poświęcić 25% swojego Maksymalnego HP, aby zyskać 2k4 Staminy lub Many.
