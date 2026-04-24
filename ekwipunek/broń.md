@@ -51,7 +51,7 @@
 * Krótki - Ataki tą bronią obarczone są utrudnieniem poza atakami z ukrycia lub zaskoczenia.
 * Skrytobójczy - Ataki wykonywane tą bronią z ukrycia lub zaskoczenia omijają całkowicie pancerz oponenta kosztem 1 Staminy. Kosztem kolejnego 1 punktu Staminy, nakładają na przeciwnika 1 poziom Zatrucia.
 * Krytyczny - Ciosy krytyczne wykonane tą bronią zapewniają 2 dodatkowe kostki w miejsce 1 za każdy maksymalny wynik wyrzucony na innych kościach.
-* Kawalerysjki - Z broni tej można korzystać jedynie dosiadając wierzchowca.
-* Szybkostrzelny - Kosztem 1 Staminy pozwala na zadanie obrażeń przeciwnikowi stojącemu bezpośrednio obok innemu celowi ataku. Pozwala również na wykonywanie dodatkowych ataków przeciwko hordom kosztem 1 Staminy / atak.
+* Kawaleryjski - Z broni tej można korzystać jedynie dosiadając wierzchowca.
+* Szybkostrzelny - Kosztem 1 Staminy pozwala na zadanie obrażeń przeciwnikowi stojącemu bezpośrednio obok innego celu ataku. Pozwala również na wykonywanie dodatkowych ataków przeciwko hordom kosztem 1 Staminy / atak.
 * Głośny - Każde użycie tej broni emituje bardzo głośne dźwięki, możliwe do zamaskowania jedynie innymi głośnymi odgłosami. Każda osoba w promieniu 100 metrów ma szansę na usłyszenie ataku.
 * Niebezpieczny - Każdy wynik 1 na dowolnej kości obrażeń wymusza rzut 1k100. Każdy rzut niesie za sobą kumulatywną szansę 1% na eksplozję broni. W przypadku eksplozji, broń ulega zniszczeniu i zadaje wylosowane wcześniej obrażenia użytkownikowi, a nie przeciwnikowi.

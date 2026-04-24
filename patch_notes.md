@@ -5,7 +5,9 @@
 
 # 0.1.8
 (!) Ekwipunek: Paski
+(!) Walka: Miniony
 (+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
+(+) Akcje: Akcje główne - Dowodzenie
 
 # 0.1.7
 (!) Walka: Dual wielding
