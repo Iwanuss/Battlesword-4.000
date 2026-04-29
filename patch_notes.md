@@ -6,6 +6,7 @@
 # 0.1.8
 (!) Ekwipunek: Paski
 (!) Walka: Miniony
+(!) Mechaniki bazowe: Crafting
 (+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
 (+) Akcje: Akcje główne - Dowodzenie
 
