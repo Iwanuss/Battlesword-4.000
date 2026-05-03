@@ -11,6 +11,7 @@
 (+) Akcje: Akcje główne - Dowodzenie
 (+) Rasy: Centaur
 (+) Rasy: Krasnolud
+(+) Profesje: Szlachcic
 
 # 0.1.7
 (!) Walka: Dual wielding
