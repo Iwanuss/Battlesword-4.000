@@ -9,6 +9,8 @@
 (!) Mechaniki bazowe: Crafting
 (+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
 (+) Akcje: Akcje główne - Dowodzenie
+(+) Rasy: Centaur
+(+) Rasy: Krasnolud
 
 # 0.1.7
 (!) Walka: Dual wielding
