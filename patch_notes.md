@@ -12,6 +12,7 @@
 (+) Rasy: Centaur
 (+) Rasy: Krasnolud
 (+) Profesje: Szlachcic
+(+) Profesje: Gazeciarz
 
 # 0.1.7
 (!) Walka: Dual wielding
