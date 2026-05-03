@@ -13,6 +13,9 @@
 (+) Rasy: Krasnolud
 (+) Profesje: Szlachcic
 (+) Profesje: Gazeciarz
+(+) Klasy: Kawalerzysta
+
+(+) Broń biała: Lanca
 
 # 0.1.7
 (!) Walka: Dual wielding

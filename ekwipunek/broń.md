@@ -21,6 +21,7 @@
 | Sztylet            | 1k6       | 1H      | Zręczność         | Skrytobójczy, Krótki                 |
 | Sztylet sprężynowy | 1k4       | 1H      | Zręczność         | Skrytobójczy, Krótki, Krytyczny      |
 | Kopia              | 2k10      | 1H      | Siła              | Druzgocący, Kawalerysjki             |
+| Lanca              | 2k10      | 1H      | Zręczność         | Druzgocący, Kawalerysjki             |
 
 ## Broń zasięgowa
 | Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Zasięg | Cechy specjalne             |
