@@ -1,37 +1,37 @@
 # Broń
 
 ## Broń biała
-| Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Cechy specjalne                      |
-|--------------------|-----------|---------|-------------------|--------------------------------------|
-| Długi miecz        | 1k10      | 1H      | Zręczność         | Wszechtronny                         |
-| Rapier             | 1k10      | 1H      | Zręczność         | Przeciwpancerny                      |
-| Krótki miecz       | 1k6       | Offhand | Zręczność         | Parujący                             |
-| Miecz dwuręczny    | 2k10      | 2H      | Zręczność         | Druzgocący                           |
-| Buława             | 1k10      | 1H      | Siła              | Ogłuszający                          |
-| Budzdygan          | 2k10      | 2H      | Siła              | Ogłuszający, Miażdżący               |
-| Wielka laga        | 2k6       | 2H      | Zręczność         | Parujący, Wyprzedzający, Ogłuszający |
-| Glewia             | 1k10      | 2H      | Siła              | Parujący, Wyprzedzający              |
-| Berło              | 1k6       | 1H      | Charyzma          | Dowodzący                            |
-| Włócznia           | 1k8       | 1H      | Siła              | Wyprzedzający                        |
-| Kostur             | 1k6       | 2H      | Inteligencja      | Magiczny, Kanalizujący               |
-| Różdżka            | 1k4       | 1H      | Inteligencja      | Magiczny                             |
-| Siekiera           | 2k6       | 1H      | Siła              | Rąbiący                              |
-| Topór              | 4k6       | 2H      | Siła              | Rąbiący                              |
-| Szpony             | 2k6       | 2H      | Zręczność         | Wysysający, Krótki                   |
-| Sztylet            | 1k6       | 1H      | Zręczność         | Skrytobójczy, Krótki                 |
-| Sztylet sprężynowy | 1k4       | 1H      | Zręczność         | Skrytobójczy, Krótki, Krytyczny      |
-| Kopia              | 2k10      | 1H      | Siła              | Druzgocący, Kawalerysjki             |
-| Lanca              | 2k10      | 1H      | Zręczność         | Druzgocący, Kawalerysjki             |
+| Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Cechy specjalne                      | Wymagana Majętność |
+|--------------------|-----------|---------|-------------------|--------------------------------------|--------------------|
+| Długi miecz        | 1k10      | 1H      | Zręczność         | Wszechtronny                         | 30                 |
+| Rapier             | 1k10      | 1H      | Zręczność         | Przeciwpancerny                      | 31                 |
+| Krótki miecz       | 1k6       | Offhand | Zręczność         | Parujący                             | 28                 |
+| Miecz dwuręczny    | 2k10      | 2H      | Zręczność         | Druzgocący                           | 35                 |
+| Buława             | 1k10      | 1H      | Siła              | Ogłuszający                          | 20                 |
+| Budzdygan          | 2k10      | 2H      | Siła              | Ogłuszający, Miażdżący               | 25                 |
+| Wielka laga        | 2k6       | 2H      | Zręczność         | Parujący, Wyprzedzający, Ogłuszający | 10                 |
+| Glewia             | 1k10      | 2H      | Siła              | Parujący, Wyprzedzający              | 25                 |
+| Berło              | 1k6       | 1H      | Charyzma          | Dowodzący                            | 20                 |
+| Włócznia           | 1k8       | 1H      | Siła              | Wyprzedzający                        | 15                 |
+| Kostur             | 1k6       | 2H      | Inteligencja      | Magiczny, Kanalizujący               | 30                 |
+| Różdżka            | 1k4       | 1H      | Inteligencja      | Magiczny                             | 25                 |
+| Siekiera           | 2k6       | 1H      | Siła              | Rąbiący                              | 20                 |
+| Topór              | 4k6       | 2H      | Siła              | Rąbiący                              | 23                 |
+| Szpony             | 2k6       | 2H      | Zręczność         | Wysysający, Krótki                   | 27                 |
+| Sztylet            | 1k6       | 1H      | Zręczność         | Skrytobójczy, Krótki                 | 18                 |
+| Sztylet sprężynowy | 1k4       | 1H      | Zręczność         | Skrytobójczy, Krótki, Krytyczny      | 20                 |
+| Kopia              | 2k10      | 1H      | Siła              | Druzgocący, Kawalerysjki             | 28                 |
+| Lanca              | 2k10      | 1H      | Zręczność         | Druzgocący, Kawalerysjki             | 26                 |
 
 ## Broń zasięgowa
-| Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Zasięg | Cechy specjalne             |
-|--------------------|-----------|---------|-------------------|--------|-----------------------------|
-| Łuk                | 1k8       | 2H      | Siła              | Długi  | Szybkostrzelny              |
-| Kusza              | 1k10      | 2H      | Percepcja         | Średni |                             |
-| Kusza pistoletowa  | 1k8       | 1H      | Percepcja         | Krótki |                             |
-| Pistolet           | 1k12      | 1H      | Percepcja         | Krótki | Głośny, Niebezpieczny       |
-| Muszkiet           | 1k12      | 2H      | Percepcja         | Długi  | Głośny, Niebezpieczny       |
-| Broń rzucana       | 1k6       | 1H      | Siła              | Krótki |                             |
+| Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Zasięg | Cechy specjalne             | Wymagana Majętność |
+|--------------------|-----------|---------|-------------------|--------|-----------------------------|--------------------|
+| Łuk                | 1k8       | 2H      | Siła              | Długi  | Szybkostrzelny              | 15                 |
+| Kusza              | 1k10      | 2H      | Percepcja         | Średni |                             | 20                 |
+| Kusza pistoletowa  | 1k8       | 1H      | Percepcja         | Krótki |                             | 35                 |
+| Pistolet           | 1k12      | 1H      | Percepcja         | Krótki | Głośny, Niebezpieczny       | 40                 |
+| Muszkiet           | 1k12      | 2H      | Percepcja         | Długi  | Głośny, Niebezpieczny       | 50                 |
+| Broń rzucana       | 1k6       | 1H      | Siła              | Krótki |                             | 15                 |
 
 ## Słowniczek
 * Obrażenia - Postawowa ilośc kości wykorzystywanych przy ustalaniu obrażeń.

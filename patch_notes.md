@@ -7,6 +7,7 @@
 (!) Ekwipunek: Paski
 (!) Walka: Miniony
 (!) Mechaniki bazowe: Crafting
+(!) Ekwipunek: Reszta Ekwipunku
 (+) Aptekarz: Przerwa profesyjna - Eksperymentalne mikstury
 (+) Akcje: Akcje główne - Dowodzenie
 (+) Rasy: Centaur
