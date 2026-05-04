@@ -14,7 +14,7 @@
 (+) Profesje: Szlachcic
 (+) Profesje: Gazeciarz
 (+) Klasy: Kawalerzysta
-
+(+) Klasy: Tytan
 (+) Broń biała: Lanca
 
 # 0.1.7
