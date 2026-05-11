@@ -49,3 +49,6 @@ Każda zła postać wchodząca pierwszy raz w swojej turze na uświęcony teren 
 
 ### Naelektryzowany
 Każda postać wykonująca jakąkolwiek akcję na naelektryzowanym terenie otrzymuje 3k6 obrażeń od elektryczności i 1 poziom Szoku.
+
+### Zadymiony
+Ogranicza widoczność, uniemożliwiając wybieranie na cel przeciwników znajdujących się za zadymionym sektorem. Atakowanie przeciwników znajdujących się w zadymionym sektorze wymaga zdania testu Spostrzegawczości. Postaci znajdujące w zadymionym sektorze również muszą zdać test Spostrzegawczości, aby móc atakować postaci znajdujące się poza sektorem.

@@ -3,6 +3,9 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.9
+(!) Walka: Morale
+
 # 0.1.8
 (!) Ekwipunek: Paski
 (!) Walka: Miniony
