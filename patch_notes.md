@@ -10,6 +10,7 @@ z "Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony ter
 na "Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Uniku. W przypadku porażki, otrzymuje 2k6 obrażeń od ognia i 1 poziom Podpalenia."
 (+) Botanik: Przerwa profesyjna - Ogród
 (+) Szlachic: Przerwa profesyjna - Wielka Polityka
+(+) Gazeciarz: Przerwa profesyjna - Mistrzowskie Krzyżówki
 
 # 0.1.8
 (!) Ekwipunek: Paski
