@@ -30,9 +30,12 @@ Potki na każdą okazję - W ramach akcji, pozwala na uzupełnienie jednej z mik
 ## Przerwa profesyjna - Eksperymentalne mikstury
 W ramach przerwy między przygodami, Aptekarz może podjąć się tworzenia całkowicie nowych, unikatowych mikstur, tynktur i eliksirów.
 
-W ramach akcji przerwy, Aptekarz może wykonać test Znajdowania oraz Wynalazczości i zsumować sukcesy obydwu.
+W ramach akcji przerwy, Aptekarz może wykonać testy i zsumować sukcesy:
+* Znajdowania
+* Wynalazczości
+* Medycyny
 
-Każde 10 sukcesów pozwala na dodanie jednego z efektów z poniższej listy do dowolnego przedmiotu podręcznego. Efekty nie mogą się dublować na jednym przedmiocie.
+Każde 5 sukcesów pozwala na dodanie jednego z efektów z poniższej listy do dowolnego przedmiotu podręcznego. Efekty nie mogą się dublować na jednym przedmiocie.
 
 1. Zmniejsza zuzycia o 1. Postać odzyskuje wszystkie HP na koniec rundy.
 2. Postać otrzymuje obrażenia od chaosu równe Max HP. Podwaja zadawane obrażenia do końca rundy.

@@ -33,7 +33,7 @@ Każdy Bohater Gracza próbujący przemieścić się przez zamrożony teren, mus
 Każdy NPC próbujący się przemieścić przez zamrożony teren, musi poświęcić na to podwójną akcję. Dodatkowo, otrzymuje 2k6 obrażeń od zimna i 1k4 poziomów Zamrożenia.
 
 ### Podpalony
-Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Uniku. W przypadku porażki, otrzymuje 1k6 obrażeń od ognia za każdy poziom porażki i 1 poziom Podpalenia.
+Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Uniku. W przypadku porażki, otrzymuje 2k6 obrażeń od ognia i 1 poziom Podpalenia.
 
 Każdy NPC automatycznie otrzymuje 4k6 obrażeń od ognia i 1 poziom Podpalenia.
 

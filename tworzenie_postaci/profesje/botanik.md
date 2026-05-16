@@ -34,7 +34,7 @@ W ramach akcji przerwy, Botanik może wykonac testy:
 * Wiedza
 * Znajdowanie
 
-Sukcesy należy zsumować. Za każde 15 sukcesów, Botanik może zasadzić nową roślinę w ogrodzie. Każda roślina zapewnia jedną z dwóch premii w każdej przerwie między przygodami do kolejnej przerwy:
+Sukcesy należy zsumować. Za każde 5 sukcesów, Botanik może zasadzić nową roślinę w ogrodzie. Każda roślina zapewnia jedną z dwóch premii w każdej przerwie między przygodami do kolejnej przerwy:
 * Agurk - ataki wybraną bronią nakładają stan Zatrucia lub wybrana postać podwaja nakładane stany Zatrucia
 * Alfunas - zwiększa Odporność na Śmierć wybranej postaci o 1 lub wybrana postać zyskuje 2 Pancerza
 * Feuille de blessure - wybrany przedmiot podręczny zapewnia dodatkowo małe leczenie lub wybrana postać zyskuje niewrażliwość na Krwawienie
