@@ -83,8 +83,8 @@
 * Wzmocnienie - Zwiększenie obrazeń o 1k10 - 1 staminy
 
 ### Reakcja łańcuchowa
-* Wymagania - 10 Mądrości
-* Koszt wykupienia - 1000 PD
+* Wymagania - 8 Mądrości
+* Koszt wykupienia - 800 PD
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
 * Opis - Zużywa 10 staminy. Można użyć raz na walkę. Wybrany przeciwnik otrzymuje 5k10+10 obrażeń od ognia. Kolejny najbliższy przeciwnik otrzymuje 4k10+8 obrażeń od ognia, następny 3k10+6, kolejny 2k10+4 i ostatni 1k10+2. W przypadku, gdy więcej niż jeden przeciwnik jest w tej samej odległości od poprzedniego, Bohater może samemu wybrać kolejny cel spośród nich.

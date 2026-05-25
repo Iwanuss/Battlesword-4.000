@@ -1,7 +1,7 @@
 # Zbroja czerwonych łusek
 * Typ - Pancerz (Zbroja łuskowa)
 * Pancerz - 6
-* Wymagania - Siła 12
+* Wymagania - Siła 10
 * Rzadkość - Rzadki
 
 ## Modyfikatory

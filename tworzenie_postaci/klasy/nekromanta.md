@@ -98,8 +98,8 @@
     * Wskrzeszony ma +5 hp - 1 many
 
 ### Przywołanie awatara śmierci
-* Wymagania - 10 Mądrości
-* Koszt wykupienia - 1000 PD
+* Wymagania - 8 Mądrości
+* Koszt wykupienia - 800 PD
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
 * Opis - Zużywa 10 staminy. Można użyć raz na walkę. W wybranym miejscu na polu bitwy pojawia się Awatar Śmierci i jest mioninem do końca walki.

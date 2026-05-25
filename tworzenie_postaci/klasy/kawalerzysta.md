@@ -84,8 +84,8 @@
     * Nałożenie 1 poziomu paniki - 1 staminy
 
 ### Szturm teleportu
-* Wymagania - 10 Mądrości
-* Koszt wykupienia - 1000 PD
+* Wymagania - 8 Mądrości
+* Koszt wykupienia - 800 PD
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
 * Opis - Zadaje 10k10 świętych obrażeń wybranemu oponentowi i teleportuje kawalerzystę do zasięgu zwarcia z nim.

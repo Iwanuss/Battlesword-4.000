@@ -1,6 +1,6 @@
 # Mundur Gwardii Feniksa
 * Typ - Pancerz
-* Wymagania - Inteligencja 10
+* Wymagania - Inteligencja 7
 * Bariera - 21
 * Rzadkość - Rzadki
 

@@ -3,6 +3,24 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.10
+(!) Mechaniki bazowe: Szczęście
+(*) Pancerze: Szaty magiczne
+z Wymagania - Inteligencja 10
+na Wymagania - Inteligencja 8
+(-) Pancerze: Lekkie - Wymagania - Siła 8
+(*) Pancerze: Średnie
+z Wymagania - Siła 12
+na Wymagania - Siła 10
+(*) Pancerze: Ciężkie
+z Wymagania - Siła 16
+na Wymagania - Siła 14
+(*) Perki - Wszystkie wymagania zmniejszone o 2
+(-) Perki - Wymagania Mądrości mniejsze niż 3
+(*) Profesje: Umiejętności ostateczne
+z Wymagania - 10 Mądrości; Koszt wykupienia - 1000 PD
+na Wymagania - 8 Mądrości; Koszt wykupienia - 800 PD
+
 # 0.1.9
 (!) Walka: Morale
 (!) Bestiariusz: rodzaje oponentów

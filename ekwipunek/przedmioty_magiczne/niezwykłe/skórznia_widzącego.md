@@ -1,7 +1,6 @@
 # Skórznia Widzącego
 * Typ - Pancerz (Skórznia ćwiekowana)
 * Pancerz - 3
-* Wymagania - Siła 8
 * Rzadkość - Niezwykły
 
 ## Modyfikatory

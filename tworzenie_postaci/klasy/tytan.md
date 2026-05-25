@@ -69,8 +69,8 @@
     * Leczenie wzrasta do pełnego (100%) - 3 Staminy
 
 ### Niezniszczalny, Niepokonany, Niezwyciężony
-* Wymagania - 10 Mądrości
-* Koszt wykupienia - 1000 PD
+* Wymagania - 8 Mądrości
+* Koszt wykupienia - 800 PD
 * Czas aktywacji - 1 akcja
 * Opis - Tytan staje się niewrażliwy na obrażenia na 1 rundę. W czasie trwania nie odzyskuje bazowej Staminy.
 * Wzmocnienia - Zwiększenie czasu trwania o 1 rundę - 1 Staminy

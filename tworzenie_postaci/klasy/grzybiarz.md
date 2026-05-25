@@ -123,8 +123,8 @@
     * Wzmocnienie miniona by zadawał obrażenia zwiększone o 1 kostkę - 1 many
 
 ### Armia grzybów
-* Wymagania - 10 Mądrości
-* Koszt wykupienia - 1000 PD
+* Wymagania - 8 Mądrości
+* Koszt wykupienia - 800 PD
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
 * Opis - Zużywa 10 staminy. Można użyć raz na walkę. W wybranych miejscach na polu bitwy, spod ziemi wychodzi 10 grzybowych minionów w randze trepa. Miniony pozostają na polu bitwy maksymalnie do końca walki.

@@ -1,7 +1,7 @@
 # Pancerze
 
 ## Szaty magiczne
-Wymagania - Inteligencja 10
+Wymagania - Inteligencja 8
 | Nazwa                | Wymagana Majętność | Bariera |
 |----------------------|--------------------|---------|
 | Prosta szata         | 15                 | 3       |
@@ -19,7 +19,6 @@ Wymagania - Inteligencja 10
 | Regalia Zaćmienia    | 75                 | 39      |
 
 ## Lekkie
-Wymagania - Siła 8
 | Nazwa               | Wymagana Majętność | Pancerz |
 |---------------------|--------------------|---------|
 | Kurtka pikowana     | 15                 | 1       |
@@ -27,7 +26,7 @@ Wymagania - Siła 8
 | Skórznia ćwiekowana | 25                 | 3       |
 
 ## Średnie
-Wymagania - Siła 12
+Wymagania - Siła 10
 | Nazwa               | Wymagana Majętność | Pancerz |
 |---------------------|--------------------|---------|
 | Kolczuga            | 30                 | 4       |
@@ -35,7 +34,7 @@ Wymagania - Siła 12
 | Zbroja łuskowa      | 40                 | 6       |
 
 ## Ciężkie
-Wymagania - Siła 16
+Wymagania - Siła 14
 | Nazwa               | Wymagana Majętność | Pancerz |
 |---------------------|--------------------|---------|
 | Pancerz półpłytowy  | 45                 | 7       |

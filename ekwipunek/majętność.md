@@ -1,6 +1,10 @@
 # Majętność
 
-Majętność jest statystyką drużyną, która określa poziom zamożności, bogactwa, znajomości i generalnej siły nabywczej. Składają sie na nią zarówno środki finansowe, ale również inwestycje, kapitał, kosztowności oraz potencjał speniężenia posiadanych przedmiotów.
+Majętność jest statystyką drużynową, która określa poziom zamożności, bogactwa, znajomości i generalnej siły nabywczej. Składają sie na nią zarówno środki finansowe, ale również inwestycje, kapitał, kosztowności oraz potencjał speniężenia posiadanych przedmiotów.
+
+Próba śledzenia osobistych finansów w grze w sposób zblizony do prawdziwego życia byłaby niepotrzebną komplikacją. Jednak korzystając z nieco bardziej uipropszczonego sposobu, możemy określić standard życia Drużyny i jej możliwości finansowe.
+
+Początkowa Majętność jest okreslana podczas tworzenia postaci na postawie najwyższej Majętności startowej postaci tworzących Drużynę. Dalsze modyfikacje tej wartości odnoszą się do Majętności całej Drużyny, a nie pojedynczego Bohatera.
 
 ## Zakupy
 Podstawową funkcją Majętności jest określenie siły nabywczej Drużyny. Aby móc nabyć dany przedmiot lub zapewnić sobie daną usługę, Majętność Drużyny musi być równa lub wyższa od jego wymagań. Nabywanie niemagicznych przedmiotów nie obniża Majętności.

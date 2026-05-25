@@ -1,7 +1,6 @@
 # Krystaliczna Tarcza Eneretyczna
 * Typ - Tarcza
 * Bariera - 3
-* Wymagania - Inteligencja 10
 * Rzadkość - Rzadka
 
 ## Modyfikatory
