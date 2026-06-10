@@ -3,6 +3,12 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.11
+(*) Kawalerzysta: Szybki zwiad
+z "Sukces pozwala na podejrzenie pola bitwy i zadanie 3 pytań na jego temat."
+na "Sukces pozwala na podejrzenie pola bitwy i zadanie pytań na jego temat."
+(+) Niezwykłe przedmioty magiczne: Pas Powerlifterski - Dodano brakujące przedmioty podręczne i efekty
+
 # 0.1.10
 (!) Mechaniki bazowe: Szczęście
 (*) Pancerze: Szaty magiczne

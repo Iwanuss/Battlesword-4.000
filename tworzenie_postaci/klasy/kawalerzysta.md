@@ -99,7 +99,7 @@
 ## Startowe aktywne umiejętności eksploracyjne
 ### Szybki zwiad
 * Czas trwania - 5 minut
-* Opis - Pozwala na wykonanie zwiadu potencjalnego pola bitwy przed przeprowadzeniem zasadzki. Należy wykonać test Spostrzegawczości. Sukces pozwala na podejrzenie pola bitwy i zadanie 3 pytań na jego temat.
+* Opis - Pozwala na wykonanie zwiadu potencjalnego pola bitwy przed przeprowadzeniem zasadzki. Należy wykonać test Spostrzegawczości. Sukces pozwala na podejrzenie pola bitwy i zadanie pytań na jego temat.
 
 ### Zwierzęcy Instynkt
 * Czas trwania - 30 minut
