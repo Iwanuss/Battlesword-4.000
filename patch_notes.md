@@ -3,6 +3,19 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.12
+(!) Nowe przedmioty magiczne
+    * Niezwykłe
+        * Hełm Strażnika Baszty	
+        * Tarcza Szarżującego Kawalerzysty	
+    * Radkie
+        * Pas Nieskończonych Możliwości	
+        * Peleryna Wędrowca Tysiąca Dachów	
+        * Tarcza Milczącej Kniei	
+    * Potężne
+        * Pas Nuggitha	
+        * Odkupienie [Muszkiet]	
+
 # 0.1.11
 (*) Kawalerzysta: Szybki zwiad
 z "Sukces pozwala na podejrzenie pola bitwy i zadanie 3 pytań na jego temat."
