@@ -28,7 +28,7 @@
 ### Przygotowanie na zderzenie
 * Czas aktywacji - Reakcja
 * Opis - Tytan szykuje się na nadchodzący cios i zyskuje 3 Bariery.
-* Wzmocnienia - +1 do Pancerza na potrzeby rozliczenia ataku - 1 Staminy
+* Wzmocnienia - +1 do Pancerza do końca rundy - 1 Staminy
 
 ### Niezmordowany
 * Czas aktywacji - Reakcja

@@ -3,6 +3,26 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.13
+(!) Walka: Pojazdy i wierzchowce
+(*) Tytan: Przygotowanie na zderzenie
+z "Wzmocnienia - +1 do Pancerza na potrzeby rozliczenia ataku - 1 Staminy"
+na "Wzmocnienia - +1 do Pancerza do końca rundy - 1 Staminy"
+(*) Aptekarz: Nawóz na porost żywopłotów
+z "Raz na walkę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp, długości 30 stóp i grubości 5 stóp w wybranym miejscu w krótkim (30 stóp) zasięgu."
+na "Raz na turę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp na dwóch sąsiadujących ze sobą granicach sektora w którym się znajduje lub rozdzielając sektor w którym się znaduje na dwa mniejsze."
+(*) Mykonid: Fungalne egzospory mykoidalne
+z "Z umiejętności można skorzystać raz na walkę."
+na "Z umiejętności można skorzystać raz na turę."
+(*) Statusy: Pokiereszowanie
+z "Zwiększa otrzymywane obrażenia o 2."
+na "Zwiększa otrzymywane obrażenia o 10%."
+(*) Statusy: Panika
+z "Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, należy wykonać rzut na Delirium. Następnie, poziom statusu spada o 1.
+NPC - Zmusza go do wykorzystania jednej z akcji na oddalenie się od źródła Paniki. Jeśli nie jest w stanie, traci całą turę. Ataki przeciwko źrodłu Paniki wykonywane są z utrudnieniem. Na potrzeby Morale, NPC jest liczony jako martwy. Na koniec tury, poziom statusu spada o 1."
+na "Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać nie odzyskuje bazowej Staminy / Many. Następnie, poziom statusu spada o 1.
+NPC - Ataki przeciwko źrodłu Paniki wykonywane są z utrudnieniem, a przeciwnik jest traktowany jakby miał odporność na zadawane obrażenia. Na potrzeby Morale, NPC jest liczony jako martwy. Na koniec tury, poziom statusu spada o 1."
+
 # 0.1.12
 (!) Nowe przedmioty magiczne
     * Niezwykłe

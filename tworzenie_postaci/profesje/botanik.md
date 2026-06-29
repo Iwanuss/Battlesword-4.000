@@ -19,7 +19,7 @@
 Znam ten krzak - ułatwienie przy identyfikacji roślin, trucizn i naturalnych substancji. Automatycznie może przywoływać informacje na temat tych zidentyfikowanych lub znanych. Skraca czas potrzebny na wytworzenie przedmiotów pochodzenia naturalnego o połowę. 
 
 ## Aktywna umiejętnośc specjalna
-Nawóz na porost żywopłotów - Raz na walkę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp, długości 30 stóp i grubości 5 stóp w wybranym miejscu w krótkim (30 stóp) zasięgu.
+Nawóz na porost żywopłotów - Raz na turę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp na dwóch sąsiadujących ze sobą granicach sektora w którym się znajduje lub rozdzielając sektor w którym się znaduje na dwa mniejsze.
 
 ## Wyposażenie początkowe
 * Średnia flaszka życia

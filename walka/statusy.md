@@ -33,14 +33,14 @@ Każdy kolejny poziom zwiększa obrażenia o kolejne 2k20.
     * Każdy poziom statusu powoduje fizyczne obrażenia eskalujące na początku tury.
     * Zatamowanie krwawienia wymaga w ramach akcji zdania testu Medycyny. Każdy sukces obniża poziom Krwawienia o 1.
 * Panika
-    * Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, należy wykonać rzut na Delirium. Następnie, poziom statusu spada o 1.
-    * NPC - Zmusza go do wykorzystania jednej z akcji na oddalenie się od źródła Paniki. Jeśli nie jest w stanie, traci całą turę. Ataki przeciwko źrodłu Paniki wykonywane są z utrudnieniem. Na potrzeby Morale, NPC jest liczony jako martwy. Na koniec tury, poziom statusu spada o 1.
+    * Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać nie odzyskuje bazowej Staminy / Many. Następnie, poziom statusu spada o 1.
+    * NPC - Ataki przeciwko źrodłu Paniki wykonywane są z utrudnieniem, a przeciwnik jest traktowany jakby miał odporność na zadawane obrażenia. Na potrzeby Morale, NPC jest liczony jako martwy. Na koniec tury, poziom statusu spada o 1.
 * Podpalenie
     * Każdy poziom statusu powoduje obrażenia eskalujące na początku tury. 
     * Ugaszenie wymaga w ramach akcji zdania testu Akrobatyki. Każdy sukces obniża poziom Podpalenia o 1.
     * Każdy poziom Zamrożenia nałożony na postać z poziomami Podpalenia powoduje ich zniwelowanie i nałożenie poziomu Pokiereszowania.
 * Pokiereszowanie
-    * Zwiększa otrzymywane obrażenia o 2.
+    * Zwiększa otrzymywane obrażenia o 10%.
     * Zmniejsza zadawane obrażenia o 2.
     * Na koniec tury, poziom statusu spada o 1.
     * Jeśli poziom Pokiereszowania osiągnie wartość 10 lub więcej, postać natychmiastowo traci wszystkie swoje HP i nie może ich odzyskiwać dopóki poziom Pokiereszowania nie spadnie poniżej.
