@@ -3,6 +3,20 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.15
+(+) Przedmioty magiczne: Arcymistrzowskie - Cewka Liminalna
+(+) Przedmioty magiczne: Arcymistrzowskie - Zapomniany Strażnik
+(+) Przedmioty magiczne: Arcymistrzowskie - Warkocz Środka Nocy
+(+) Przedmioty magiczne: Potężne - Rogaty Hełm Najeźdzcy
+(+) Przedmioty magiczne: Rzadkie - Pas Kupca-Naczelnika
+(+) Przedmioty magiczne: Rzadkie - Pierścień Odkrywcy
+(+) Przedmioty magiczne: Niezwykłe - Pierścień Niewzruszonego Umysłu
+
+# 0.1.14
+(+) Przedmioty magiczne: Niezwykłe - Buty Uzdrowiciela
+(+) Przedmioty magiczne: Niezwykłe - Rękawice Srebrnego Splotu
+(+) Przedmioty magiczne: Rzadkie - Kostur Żelaznego Rachmistrza
+
 # 0.1.13
 (!) Walka: Pojazdy i wierzchowce
 (*) Tytan: Przygotowanie na zderzenie

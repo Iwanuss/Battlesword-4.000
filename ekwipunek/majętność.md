@@ -13,8 +13,8 @@ Nabywanie niepowszechnych magicznych przedmiotów drenuje Majętność zależnie
 * Niezwykłe - 1
 * Rzadkie - 3
 * Potężne - 10
-* Arcymistrzowskie - Niedostępne
-* Mityczne - Niedostępne
+* Arcymistrzowskie - 50
+* Mityczne - 200
 * Boskie - Niedostępne
 
 ## Rzadkość przedmiotów
