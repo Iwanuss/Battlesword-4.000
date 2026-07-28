@@ -58,11 +58,11 @@ Każde 5 sukcesów pozwala na dodanie jednego z efektów z poniższej listy do d
 19. Sektor wokół postaci zostaje zadymiony. Postać zyskuje perka Karmazynowy szturm do końca walki.
 20. Blokuje odzyskiwanie Staminy i Many do końca walki. Pozwala na wzmacnianie umiejętności kosztem Poczytalności.
 21. Postać zyskuje 1 Staminy lub Many za każdego zabitego przeciwnika do końca walki.
-22. diomu Szoku i Podpalenia do końca walki.
+22. Obniżenie poziomu Szoku i Podpalenia do końca walki.
 23. Uświęca sektor wokół postaci. Podwaja przywracane HP i zmniejsza dwukrotnie przywracaną Staminę i Manę przez 3 rundy.
 24. Uświęca sektor wokół postaci. Postać zyskuje perka Przysięga dewoty do końca walki.
 25. Neguje następny otrzymany cios. Przeciwnik zadający ten cios zyskuje 1 poziom Pokiereszowania.
-26. Zwiększa zużycia o 2. Postać zyskuje ułatwienie do losowego testów losowej statystyki defensywnej na 3 rundy.
+26. Zwiększa zużycia o 2. Postać zyskuje ułatwienie do losowego testu losowej statystyki defensywnej na 3 rundy.
 27. Każda akcja ruchu pozwala na nałożenie 1 poziomu Pokiereszowania wybranemu przeciwnikowi w sektorach wzdłuż trasy ruchu.
 28. Zwiększa zużycia o 1. Każdy nałożony poziom Podpalenia nakłada również poziom Krwawienia.
 29. Sektor wokół postaci zostaje zadymiony. Nakłada losowy efekt z listy z pozycji 1-6 (k6).

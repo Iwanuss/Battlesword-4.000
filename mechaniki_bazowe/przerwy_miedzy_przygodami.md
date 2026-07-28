@@ -12,7 +12,7 @@ W ramach akcji, postać może nabyć przedmioty o łącznej wartości nieprzekra
 W przypadku sprzedaży, w ramach akcji można podjąć próbę upłynnienia dowolnej ilości zasobów. Należy wtedy wykonać test Targowania. Każdy sukces zwiększa uzyskaną Majętność o 1/3 wartości upłynnianych zasobów. Np. Drużyna chce upłynnić skrzynię skarbów wartą 3 Majętności i 3 magiczne przedmioty warte po 1 Majętności. Razem ich wartość wynosi więc 6 Majętności. Postać dokonująca sprzedaży wykonuje test Targowania i uzyskuje 1 sukces. Oznacza to, że wartość sprzedaży wzrasta o 1/3, czyli o 2. Postać może przyjąć ten wynik lub podjąć się kolejnej próby sprzedaży w kolejnej akcji. Jeśli wynik zostanie zaakceptowany, Majętność Drużyny wzrasta o 8.
 
 ## Inwestycje
-W ramach jednej akcji, postać może zainwestować 1-5 Majętności Drużyny. Następnie wykonuje test Księgowości. Każdy sukces to zysk w postaci 10% wkładu. Porażka oznacza jednak utratę zainwestowanych środków.
+W ramach jednej akcji, postać może zainwestować do połowy Majętności Drużyny. Następnie wykonuje test Księgowości. Każdy sukces to zysk w postaci 10% wkładu. Porażka oznacza jednak utratę zainwestowanych środków.
 
 ## Działalność gospodarcza
 Postać może również zajmować się zarabianiem pieniędzy wykonując swoją profesję. W tym celu należy ustalić jaka statystyka jest najbliżej powiązana z daną profesją.
@@ -28,10 +28,10 @@ Postać zajmuje się wytwarzaniem lub ulepszaniem różnych przedmiotów. Należ
 Im potężniejszy, rzadszy i droższy przedmiot, tym wyższy będzie poziom trudności wytwórstwa. To z kolei wpłynie na ilość niezbędnych sukcesów w testach wytwórstwa, aby ukończyć dany przedmiot. Testy te będą podzielone pomiędzy kilka statystyk:
 * Kowalstwo
 * Majsterkowanie
-* Wynalaczość - 5/5
-* Znajdowanie - 0/5
+* Wynalaczość
+* Znajdowanie
 * Sztuka
-* oraz jeśli wytwórstwo ma związek z badaniami magicznymi - Arkana - 5/5
+* oraz jeśli wytwórstwo ma związek z badaniami magicznymi - Arkana
 
 W ramach akcji, postać może wykonać 3 wybrane testy, by progresować poszczególne wymagania. Mogą to być 3 testy różnych statystyk lub tych samych, powtarzających się.
 

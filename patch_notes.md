@@ -3,6 +3,11 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.16
+(+) Przedmioty magiczne: Arcymistrzowskie - Morany Nożyk Motylkowy
+(*) Przerwy między przygodami - Drobne porawki i usprawnienia oraz przeregadowanie
+(*) Aptekarz: Eksperymentalne mikstury - Przeredagowanie
+
 # 0.1.15
 (+) Przedmioty magiczne: Arcymistrzowskie - Cewka Liminalna
 (+) Przedmioty magiczne: Arcymistrzowskie - Zapomniany Strażnik
@@ -11,6 +16,9 @@
 (+) Przedmioty magiczne: Rzadkie - Pas Kupca-Naczelnika
 (+) Przedmioty magiczne: Rzadkie - Pierścień Odkrywcy
 (+) Przedmioty magiczne: Niezwykłe - Pierścień Niewzruszonego Umysłu
+(*) Przerwy między przygodami: Inwestycje
+z "W ramach jednej akcji, postać może zainwestować 1-5 Majętności Drużyny. Następnie wykonuje test Księgowości. Każdy sukces to zysk w postaci 10% wkładu. Porażka oznacza jednak utratę zainwestowanych środków."
+na "W ramach jednej akcji, postać może zainwestować do połowy Majętności Drużyny. Następnie wykonuje test Księgowości. Każdy sukces to zysk w postaci 10% wkładu. Porażka oznacza jednak utratę zainwestowanych środków."
 
 # 0.1.14
 (+) Przedmioty magiczne: Niezwykłe - Buty Uzdrowiciela
@@ -22,7 +30,7 @@
 (*) Tytan: Przygotowanie na zderzenie
 z "Wzmocnienia - +1 do Pancerza na potrzeby rozliczenia ataku - 1 Staminy"
 na "Wzmocnienia - +1 do Pancerza do końca rundy - 1 Staminy"
-(*) Aptekarz: Nawóz na porost żywopłotów
+(*) Botanik: Nawóz na porost żywopłotów
 z "Raz na walkę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp, długości 30 stóp i grubości 5 stóp w wybranym miejscu w krótkim (30 stóp) zasięgu."
 na "Raz na turę, w ramach akcji, może wyhodować żywopłot o wysokości 15 stóp na dwóch sąsiadujących ze sobą granicach sektora w którym się znajduje lub rozdzielając sektor w którym się znaduje na dwa mniejsze."
 (*) Mykonid: Fungalne egzospory mykoidalne
