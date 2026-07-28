@@ -3,6 +3,13 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.17
+(+) Rasa: Plazmoid
+(+) Profesja: Bagiennik
+(+) Profesja: Śmieciarz
+(+) Klasa: Alchemik
+(+) Klasa: Władca Lasów
+
 # 0.1.16
 (+) Przedmioty magiczne: Arcymistrzowskie - Morany Nożyk Motylkowy
 (*) Przerwy między przygodami - Drobne porawki i usprawnienia oraz przeregadowanie

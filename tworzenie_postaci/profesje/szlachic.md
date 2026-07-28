@@ -36,23 +36,23 @@ W ramach akcji przerwy, szlachci może wykonać następujące testy i zsumować 
 
 Za każde 5 sukcesów, szlachcic może zawrzeć sojusz lub zaszkodzić wybranemu rodowi oraz zyskać związaną z tym premię:
 * Ród Białego Morza
-    * Sojusz - Zmniejsza koszt kupna rzadkich i potężnych przedmiotów o 1.
+    * Sojusz - Zmniejsza koszt kupna rzadkich i potężnych przedmiotów o 1. *
     * Wrogość - Pozwala na zakup dwóch niezwykłych przedmiotów w cenie jednego.
 * Ród Teunìlaa
-    * Sojusz - Przeciwnicy obciążeni są utrudnieniem do wszystkich zadawanych obrażeń na morzu.
+    * Sojusz - Przeciwnicy obciążeni są utrudnieniem do wszystkich zadawanych obrażeń na morzu. *
     * Wrogość - Ułatwienie do wszystkich zadawanych obrażeń na morzu.
 * Ród Al-Qadir
-    * Sojusz - Zapewnia odporność na obrażenia od ognia.
+    * Sojusz - Zapewnia odporność na obrażenia od ognia. *
     * Wrogość - Podwaja zadawane obrażenia od ognia.
 * Ród Liawarin
     * Sojusz - Zapewnia jedno dodatkowe użycie wszystkich przedmiotom podręcznym.
-    * Wrogość - Pozwala na wykorzystanie dwóch przedmiotów podręcznych w ramach jednej akcji.
+    * Wrogość - Pozwala na wykorzystanie dwóch przedmiotów podręcznych w ramach jednej akcji. *
 * Ród Żelaznorękich
-    * Sojusz - Usuwa wymagania statystyk dla wszystkich pancerzy dla jednej postaci.
+    * Sojusz - Usuwa wymagania statystyk dla wszystkich pancerzy dla jednej postaci. *(Rafał)
     * Wrogość - Zwiększa wymagania statystyk dla wszystkich pancerzy dla jednej postaci o 2, ale zwiększa Pancerz o 1.
 * Ród Rust
     * Sojusz - Zapewnia ułatwienia do wszystkich testów związanych z rzemiosłem.
-    * Wrogość - Zmniejsza poziom trudności wytwarzania przedmiotów o 5.
+    * Wrogość - Zmniejsza poziom trudności wytwarzania przedmiotów o 5. *
 * Ród Larethorn
-    * Sojusz - W trakcie walki, raz na rundę, powala dwóm Bohaterom Gracza na wykonanie swoich tur pod rząd bez tury przeciwnika między nimi.
+    * Sojusz - W trakcie walki, raz na rundę, powala dwóm Bohaterom Gracza na wykonanie swoich tur pod rząd bez tury przeciwnika między nimi. *
     * Wrogość - Raz na walkę, jeden członek Drużyny może pominąć swoją turę, by wyleczyć wszystkich członków Drużyny do 100% HP.
