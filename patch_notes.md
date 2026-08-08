@@ -9,6 +9,11 @@
 (+) Profesja: Śmieciarz
 (+) Klasa: Alchemik
 (+) Klasa: Władca Lasów
+(+) Bestiariusz: Zwierzaki - Wilk
+(+) Bestiariusz: Zwierzaki - Niedźwiedź
+(*) Statusy: Panika
+z "Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać nie odzyskuje bazowej Staminy / Many. Następnie, poziom statusu spada o 1."
+na "Bohaterowie - Na początku tury należy wykonać test Poczytalności z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać dostaje zawału, jej HP spada do 0 i otrzymuje status Bram Śmierci. Następnie, poziom statusu spada o 1."
 
 # 0.1.16
 (+) Przedmioty magiczne: Arcymistrzowskie - Morany Nożyk Motylkowy

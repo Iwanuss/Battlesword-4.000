@@ -33,7 +33,7 @@ Każdy kolejny poziom zwiększa obrażenia o kolejne 2k20.
     * Każdy poziom statusu powoduje fizyczne obrażenia eskalujące na początku tury.
     * Zatamowanie krwawienia wymaga w ramach akcji zdania testu Medycyny. Każdy sukces obniża poziom Krwawienia o 1.
 * Panika
-    * Bohaterowie - Na początku tury należy wykonać test Siły Woli z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać nie odzyskuje bazowej Staminy / Many. Następnie, poziom statusu spada o 1.
+    * Bohaterowie - Na początku tury należy wykonać test Poczytalności z ujemnym modyfikatorem równym poziomowi Paniki. W przypadku porażki, postać dostaje zawału, jej HP spada do 0 i otrzymuje status Bram Śmierci. Następnie, poziom statusu spada o 1.
     * NPC - Ataki przeciwko źrodłu Paniki wykonywane są z utrudnieniem, a przeciwnik jest traktowany jakby miał odporność na zadawane obrażenia. Na potrzeby Morale, NPC jest liczony jako martwy. Na koniec tury, poziom statusu spada o 1.
 * Podpalenie
     * Każdy poziom statusu powoduje obrażenia eskalujące na początku tury. 
