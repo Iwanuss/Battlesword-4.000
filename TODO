@@ -38,16 +38,13 @@
 (W) Przerwy między przygodami {cm:2026-03-23}
 (W) Bestiariusz - statblocki {cm:2026-06-09}
 (V) Bestiariusz - rodzaje oponentów {cm:2026-05-19}
-(X) Walka - osłony i cięzki teren
-(Y) Magia - Magia użytkowa
-(Y) Magia - Manify
 (Z) Ekwipunek - Identyfikacja przedmiotów magicznych {cm:2026-06-23}
 
 ---
 
 0.2.0
 
-(A) Klasy prestiżowe
+(A) Klasy prestiżowe {cm:2026-07-27}
 (B) Oświetlenie
 (C) Żegluga i bitwy morskie
 (D) Bitwy lądowe

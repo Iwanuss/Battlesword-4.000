@@ -3,6 +3,11 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.18
+(+) Przedmioty magiczne: Potężne - Peleryna Podróżna
+(+) Przedmioty magiczne: Rzadkie - Cichy Klucz
+(+) Przedmioty magiczne: Niezwykłe - Buty Wędrowca Bez Kresu
+
 # 0.1.17
 (+) Rasa: Plazmoid
 (+) Profesja: Bagiennik
