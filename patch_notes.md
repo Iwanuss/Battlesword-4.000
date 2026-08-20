@@ -3,6 +3,10 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.19
+(+) Przedmioty magiczne: Boskie - Krew Maga
+(+) Przedmioty magiczne: Niezwykłe - Tarcza Kowalskiego Cechu
+
 # 0.1.18
 (+) Przedmioty magiczne: Potężne - Peleryna Podróżna
 (+) Przedmioty magiczne: Rzadkie - Cichy Klucz
