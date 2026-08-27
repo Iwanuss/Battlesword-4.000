@@ -25,3 +25,21 @@ Wyniesienie śmieci - W ramach akcji Śmieciarz może wykonać test Znajdowania 
 * Miętówka z Altdris
 * Wóda
 * Ser "Śmigło Kelemvora"
+
+## Przerwa profesyjna - Grzebanie w śmieciach
+W ramach przerwy między przygodami, Śmieciarz może podjąć się przeszukania okolicznych wysypisk śmieci w poszukiwaniu skarbów przeoczonych przez innych.
+
+W ramach akcji przerwy, Śmieciarz może wykonać testy i zsumować sukcesy:
+* Analiza
+* Spostrzegawczość
+* Znajdowanie
+
+Suma zebranych sukcesów pozwala na znalezienie magicznego przedmiotu o określonej rzadkości:
+* Niezwykły - 5
+* Rzadki - 10
+* Potężny - 20
+* Arcymistrzowski - 40
+* Mityczny - 80
+* Boski - 160
+
+Właściwości znalezionego przedmiotu należy ustalić przy wykorzystaniu zasad Craftingu Eksperymentalnego. Właściwości przedmiotów Arcymistrzowskich i rzadszych powinny być ustalone ręcznie, a nie w sposób losowy.

@@ -73,12 +73,24 @@
 * Opis - Do końca walki, za każdym razem, gdy Władca Lasu otrzyma obrażenia w krótkim zasięgu, atakujący przeciwnik otrzymuje identyczne obrażenia. Wysokość tych obrażeń nie uwzględnia redukcji obrażeń i odporności Władcy Lasu.
 * Wzmocnienia - Odbite obrażenia są większe o 1 kość - 1 Staminy
 
+### Podróż Przez Knieje
+* Koszt wykupienia - 500 PD
+* Czas aktywacji - Akcja
+* Zasięg - Długi
+* Koszt aktywacji - 1 Staminy / Many za każdy przebyty sektor
+* Opis - Władca Lasu wykorzystuje mistyczne ścieżki życia obecne w każdym ekosystemie i natychmiastowo przemieszcza się w wybrane miejse w wybranym sektorze w zasięgu.
+* Wzmocnienia
+    * Dodatkowe małe leczenie (25%+1d4) - 1 Staminy / Many
+    * Dodatkowe średnie leczenie (50%+1d6) - 2 Staminy / Many
+    * Dodatkowe duże leczenie (75%+1d8) - 3 Staminy / Many
+    * Dodatkowe pełne leczenie (100%) - 4 Staminy / Many
+
 ### Las Już Tu Jest
 * Wymagania - 8 Mądrości
 * Koszt wykupienia - 800 PD
 * Czas aktywacji - Akcja
 * Zasięg - Bespośredni
-* Opis - Władca lasu przywołuje na pomoc 1 smoka, który walczy po jego stronie do końca walki.
+* Opis - Władca lasu przywołuje na pomoc 1 zielonego smoka, który walczy po jego stronie do końca walki.
 * Wzmocnienia
     * +50 Max HP dla smoka - 1 Staminy / Many
     * +1 kość obrażeń dla smoka - 1 Staminy / Many

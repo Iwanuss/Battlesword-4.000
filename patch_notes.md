@@ -6,6 +6,31 @@
 # 0.1.19
 (+) Przedmioty magiczne: Boskie - Krew Maga
 (+) Przedmioty magiczne: Niezwykłe - Tarcza Kowalskiego Cechu
+(+) Profesje: Bagiennik - Przerwa profesyjna - Głębia Bagna
+(+) Profesje: Śmieciarz - Przerwa profesyjna - Grzebanie w śmieciach
+(+) Alchemik: Spopielenie / Zamrożenie - Nałożenie 1 poziomu Podpalenia lub Zamrożenia na wszystkich w wybranym sektorze - 1 Staminy / Many
+(+) Alchemik: Kto wie? - Wzmocnienia
+(+) Alchemik: Aktywne umiejętności bojowe do wykupienia - Trawiący kwas
+(+) Władca Lasów: Aktywne umiejętności bojowe do wykupienia - Podróż Przez Knieje
+(+) Typy terenów: Strawiony
+(*) Typy terenów: Zadymiony
+z "Ogranicza widoczność, uniemożliwiając wybieranie na cel przeciwników znajdujących się za zadymionym sektorem. Atakowanie przeciwników znajdujących się w zadymionym sektorze wymaga zdania testu Spostrzegawczości. Postaci znajdujące w zadymionym sektorze również muszą zdać test Spostrzegawczości, aby móc atakować postaci znajdujące się poza sektorem."
+na "Ogranicza widoczność, utrudniając wybieranie na cel przeciwników znajdujących się na i za zadymionym sektorem. Atakowanie przeciwników znajdujących się w zadymionym sektorze i za nim obarczone jest utrudnieniem. Postaci znajdujące w zadymionym sektorze muszą zdać test Spostrzegawczości, aby móc atakować postaci znajdujące się poza sektorem bez utrudnienia."
+(*) Typy terenów: Spaczony
+z "Każdy NPC automatycznie otrzymuje 2k10 obrażeń chaotycznych i 1 poziom Paniki."
+na "Każdy NPC automatycznie otrzymuje 5k10 obrażeń chaotycznych i 1 poziom Paniki."
+(*) Typy terenów: Zamrożony
+z "Każdy Bohater Gracza próbujący przemieścić się przez zamrożony teren, musi wykonać test Akrobatyki. W przypadku porażki, upada (utrata akcji), otrzymując 2k6 obrażeń fizycznych i stan Unieruchomienia do następnej tury. Każdy NPC próbujący się przemieścić przez zamrożony teren, musi poświęcić na to podwójną akcję. Dodatkowo, otrzymuje 2k6 obrażeń od zimna i 1k4 poziomów Zamrożenia."
+na "Każdy Bohater Gracza próbujący przemieścić się przez zamrożony teren, musi wykonać test Akrobatyki. W przypadku porażki, upada, otrzymując 2k6 obrażeń fizycznych i stan Unieruchomienia do następnej tury. Każdy NPC próbujący się przemieścić przez zamrożony teren, musi poświęcić na to podwójną akcję. Dodatkowo, otrzymuje 5k6 obrażeń od zimna i 1k4 poziomów Zamrożenia."
+(*) Typy terenów: Podpalony
+z "Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Uniku. W przypadku porażki, otrzymuje 2k6 obrażeń od ognia i 1 poziom Podpalenia. Każdy NPC automatycznie otrzymuje 4k6 obrażeń od ognia i 1 poziom Podpalenia."
+na "Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na podpalony teren, musi wykonać test Uniku. W przypadku porażki, otrzymuje 2k10 obrażeń od ognia i 1 poziom Podpalenia. Każdy NPC automatycznie otrzymuje 5k10 obrażeń od ognia i 1 poziom Podpalenia."
+(*) Typy terenów: Zagrzybiały
+z "Każdy NPC automatycznmie otrzymuje 1k6 obrażeń żrących i 1k4 poziomów Zatrucia."
+na "Każdy NPC automatycznmie otrzymuje 5k6 obrażeń żrących i 1k4 poziomów Zatrucia."
+(*) Typy terenów: Uświęcony
+z "Każda zła postać wchodząca pierwszy raz w swojej turze na uświęcony teren otrzymuje 3k10 świętych obrażeń i 1 poziom Podpalenia."
+na "Każda zła postać wchodząca pierwszy raz w swojej turze na uświęcony teren otrzymuje 5k10 świętych obrażeń i 1 poziom Podpalenia."
 
 # 0.1.18
 (+) Przedmioty magiczne: Potężne - Peleryna Podróżna
