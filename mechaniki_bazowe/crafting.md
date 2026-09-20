@@ -39,6 +39,18 @@ W niektórych przypadkach mogą to być równiez inne umiejętności, jeśli ma 
 ## Wytwórstwo eksperymentalne
 Bohater może też zaryzykować i spróbować stworzyć coś eksperymentalnego. Wtedy, osiągnięte efekty są całkowicie losowe. Jedyne co Bohater wybiera to bazowy typ przedmiotu. Wtedy, poziom trudności wytworzenia takiego przedmiotu jest równy wymaganej Majętności przedmiotu bazowego. Po zebraniu odpowiedniej ilości sukcesów, należy rzucić na odpowiednie tabele, by sprawdzić osiągniętą rzadkość oraz cechy.
 
+### Baza przedmiotu
+1. Hełm
+2. Peleryna
+3. Amulet
+4. Pancerz
+5. Pierścionek
+6. Rękawice
+7. Buty
+8. Pas
+9. Broń
+10. Tarcza
+
 ### Eksperymentalna rzadkość
 Rzut k100:
 * 1-33: Niezwykła
