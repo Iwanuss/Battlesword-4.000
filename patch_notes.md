@@ -3,6 +3,26 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.21
+(+) Walka: Typy terenów - Halucynogenny
+(+) Przedmioty magiczne: Potężne - Wieczne Spojrzenie
+(+) Przedmioty magiczne: Boskie - Łowca Głów
+(+) Przedmioty magiczne: Rzadkie - Pas Głębinowego Uśmiechu
+(+) Przedmioty magiczne: Arcymistrzowskie - Brązowa Broda
+(+) Przedmioty magiczne: Niezwykłe - Zmyślne Buty
+(+) Przedmioty magiczne: Rzadkie - Targowy Bastion
+(+) Przedmioty magiczne: Niezwykłe - Rękwice do Podnoszenia Ciężarów
+(+) Przedmioty magiczne: Mityczne - Nagolenniki ze Smoczych Kości
+(+) Przedmioty magiczne: Mityczne - Korona ze Smoczych Zębów
+
+# 0.1.20
+(+) Przedmioty magiczne: Arcymistrzowskie - Siła Bagna
+(+) Przedmioty magiczne: Niezwykłe - Pas Cyrkowca
+(+) Przedmioty magiczne: Potężny - Klamra z Urodzenia
+(+) Przedmioty magiczne: Potężny - Skórznia z dzikiego dzika
+(+) Przedmioty magiczne: Rzadki - Wilgotna Chwała
+(+) Przedmioty magiczne: Rzadki - Czytelnik Wód
+
 # 0.1.19
 (+) Przedmioty magiczne: Boskie - Krew Maga
 (+) Przedmioty magiczne: Niezwykłe - Tarcza Kowalskiego Cechu

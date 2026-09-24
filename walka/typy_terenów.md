@@ -57,3 +57,6 @@ Ogranicza widoczność, utrudniając wybieranie na cel przeciwników znajdujący
 Każdy Bohater Gracza wchodzący pierwszy raz w swojej turze na strawiony teren, musi wykonać test Wytrzymałości. W przypadku porażki, otrzymuje 1 obrażeń żrących za każdą porażkę, które omijają Barierę, a wartość jego Pancerza zostaje obniżona o połowę do końca walki.
 
 Każdy NPC automatycznie otrzymuje 5k10 obrażeń żrących, a klasa jego Pancerza zostaje zmniejszona o 1.
+
+### Halucynogenny
+Postać kończąca swoją turę w Halucynogennym sektorze musi zdać test Siły Woli lub zyskuje 1 poziom Pokiereszowania. Jeśli cel ataku znajduje się w sektorze Halucynogennym, atakujący musi zdać test Sprytu lub zada tylko połowę obrażeń i statusów.
