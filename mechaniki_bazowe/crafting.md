@@ -56,7 +56,7 @@ Rzut k100:
 * 1-33: Niezwykła
 * 34-63: Rzadka
 * 64-83: Potężne
-* 84-93: Arcymistrzowskia
+* 84-93: Arcymistrzowska
 * 94-99: Mityczna
 * 100: Boska
 

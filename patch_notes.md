@@ -3,6 +3,12 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.22
+(+) Przedmioty magiczne: Mityczne - Bezczynny Chwyt Północnej Zimy
+(+) Przedmioty magiczne: Mityczne - Zaprzysiężona Framuga Dębowego Oporu
+(+) Przedmioty magiczne: Arcymistrzowskie - Duchowa Szata Gorzkiego Rozkwitu
+(+) Przedmioty magiczne: Arcymistrzowskie - Peleryna Wpływowego Cienia Tajemnego Mocarza
+
 # 0.1.21
 (+) Walka: Typy terenów - Halucynogenny
 (+) Przedmioty magiczne: Potężne - Wieczne Spojrzenie
