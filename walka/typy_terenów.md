@@ -48,7 +48,7 @@ Każda dobra postać wchodząca pierwszy raz w swojej turze na uświęcony teren
 Każda zła postać wchodząca pierwszy raz w swojej turze na uświęcony teren otrzymuje 5k10 świętych obrażeń i 1 poziom Podpalenia.
 
 ### Naelektryzowany
-Każda postać wykonująca jakąkolwiek akcję na naelektryzowanym terenie otrzymuje 3k6 obrażeń od elektryczności i 1 poziom Szoku.
+Każda postać wykonująca jakąkolwiek akcję na naelektryzowanym terenie otrzymuje 3k6 obrażeń od elektryczności i 1 poziom Porażenia.
 
 ### Zadymiony
 Ogranicza widoczność, utrudniając wybieranie na cel przeciwników znajdujących się na i za zadymionym sektorem. Atakowanie przeciwników znajdujących się w zadymionym sektorze i za nim obarczone jest utrudnieniem. Postaci znajdujące w zadymionym sektorze muszą zdać test Spostrzegawczości, aby móc atakować postaci znajdujące się poza sektorem bez utrudnienia.
