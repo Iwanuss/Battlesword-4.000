@@ -8,6 +8,11 @@
 (+) Przedmioty magiczne: Mityczne - Zaprzysiężona Framuga Dębowego Oporu
 (+) Przedmioty magiczne: Arcymistrzowskie - Duchowa Szata Gorzkiego Rozkwitu
 (+) Przedmioty magiczne: Arcymistrzowskie - Peleryna Wpływowego Cienia Tajemnego Mocarza
+(+) Przedmioty magiczne: Arcymistrzowskie - Wrzoścce Hazardowego Biegu
+(+) Tworzenie postaci: Profesje - Przewoźnik
+(+) Tworzenie postaci: Profesje - Żeglarz
+(+) Tworzenie postaci: Klasy - Liturgista
+(+) Tworzenie postaci: Klasy - Taktyk
 
 # 0.1.21
 (+) Walka: Typy terenów - Halucynogenny
