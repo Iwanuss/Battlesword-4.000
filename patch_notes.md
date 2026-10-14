@@ -5,6 +5,10 @@
 
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola
+(+) Przedmioty magiczne: Mityczne - Zaduma Świtu Otulającego Lodowy Grobowiec
+(+) Przedmioty magiczne: Arcymistrzowskie - Czarne Serce Potępienia
+(+) Walka: Statusy - Pąkle
+(+) Walka: Statusy - Osłabienie
 
 # 0.1.22
 (+) Przedmioty magiczne: Mityczne - Bezczynny Chwyt Północnej Zimy

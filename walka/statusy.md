@@ -27,6 +27,7 @@ Każdy kolejny poziom zwiększa obrażenia o kolejne 2k20.
 * Ukryty
     * Bohaterowie - Postać nie może być wzięta na cel ataku lub pojedynczy cel ataku obszarowego. Zapewnia ułatwienie do ataków dla ukrytego.
     * NPC - Postać staje się niewidoczna dla pozostałych. Zapewnia ułatwienie do ataków dla ukrytego.
+* Osłabienie - Następne zadane przez postać obrażenia są zmniejszone o połowę. Mnożnik ten nakłada się niezależnie od odporności i podatności na obrażenia.
 
 ## Wielokrotne
 * Krwawienie
@@ -59,3 +60,6 @@ Każdy kolejny poziom zwiększa obrażenia o kolejne 2k20.
     * Bohaterowie - Każdy poziom narzuca modyfikator (-1) do wszystkich testów oraz obniża zadawane obrażenia o jedną kostkę.
     * NPC - Nie mogą otrzymywać poziomów Zmęczenia, zamiast tego otrzymują poziomu Pokiereszowania.
     * Jeśli poziom Zmęczenia osiągnie wartość 10 lub więcej, postać natychmiastowo traci wszystkie swoje HP i nie może ich odzyskiwać dopóki poziom Zmęczenia nie spadnie poniżej.
+* Pąkle
+    * Każda wykonana akcja powoduje otrzymanie 1k10 obrażeń fizycznych za każdy nałożony poziom statusu. Następnie poziom statusu spada o 1.
+    * Pąkle można również usunąc udanych testem Sztuki Przetrwania lub Medycyny w ramach akcji.
