@@ -3,6 +3,9 @@
 (*) - Zmienione
 (!) - Całkowicie nowe
 
+# 0.1.24
+(+) Przedmioty magiczne: Arcymistrzowskie - Korona Zwycięzcy Brązowej Brody
+
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola
 (+) Przedmioty magiczne: Mityczne - Zaduma Świtu Otulającego Lodowy Grobowiec
