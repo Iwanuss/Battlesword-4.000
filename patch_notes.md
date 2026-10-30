@@ -5,6 +5,9 @@
 
 # 0.1.24
 (+) Przedmioty magiczne: Arcymistrzowskie - Korona Zwycięzcy Brązowej Brody
+(+) Przedmioty magiczne: Arcymistrzowskie - Korona Bladego Króla Za Zasłoną Nocy
+(+) Przedmioty magiczne: Mityczne - Przebudzenie Destrukcji z Rozkazu Lotu Pochodu Duchów
+(+) Przedmioty magiczne: Potężne - Serce Zniszczenia
 
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola
