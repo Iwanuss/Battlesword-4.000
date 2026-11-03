@@ -8,6 +8,7 @@
 (+) Przedmioty magiczne: Arcymistrzowskie - Korona Bladego Króla Za Zasłoną Nocy
 (+) Przedmioty magiczne: Mityczne - Przebudzenie Destrukcji z Rozkazu Lotu Pochodu Duchów
 (+) Przedmioty magiczne: Potężne - Serce Zniszczenia
+(+) Przedmioty magiczne: Arcymistrzowskie - Koło Wozu Skrzydlatej Fortecy
 
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola
