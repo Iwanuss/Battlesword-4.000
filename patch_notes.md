@@ -9,6 +9,7 @@
 (+) Przedmioty magiczne: Mityczne - Przebudzenie Destrukcji z Rozkazu Lotu Pochodu Duchów
 (+) Przedmioty magiczne: Potężne - Serce Zniszczenia
 (+) Przedmioty magiczne: Arcymistrzowskie - Koło Wozu Skrzydlatej Fortecy
+(+) Przedmioty magiczne: Arcymistrzowskie - Plazmoidyczne Symulakrum
 
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola
