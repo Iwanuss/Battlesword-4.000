@@ -50,14 +50,3 @@ Gdy Pelor zamknie swe płonące oko na końcu czasów, świat pochłonie lód.
 
 Enfolding Dawn
 The gleam of the night and the howling teeth alike could not abate the rising of the sun.
-
-Icetomb
-When Solaris closes his burning eye
-At the end of time,
-the world will perish in ice.
-
-Reverie
-"Do not despair! Give yourself to the woods!
-Become empty, and the Goddess will find you.
-From within her roots... you shall be restored."
-- Cirel of Caer Tarth

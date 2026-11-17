@@ -22,11 +22,3 @@
 Niekończąca się rzeź wojny bezlitośnie ściera ciało i umysł.
 
 Leć na zachodnim wietrze, wzbij się w powietrze.
-
-Arvil's Wheel
-The unending carnage of war
-mercilessly grinds away
-at body and mind.
-
-Feathered Fortress
-Ride the western wind, and take flight.
