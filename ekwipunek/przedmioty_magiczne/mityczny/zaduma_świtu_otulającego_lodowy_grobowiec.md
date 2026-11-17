@@ -47,6 +47,3 @@ Gdy Pelor zamknie swe płonące oko na końcu czasów, świat pochłonie lód.
 
 "Nie rozpaczaj! Oddaj się lasom! Stań się pustym, a Bogini cię znajdzie. Z jej korzeni... nadejdzie odnowa." 
 - Pytonż IV z Altdris
-
-Enfolding Dawn
-The gleam of the night and the howling teeth alike could not abate the rising of the sun.
