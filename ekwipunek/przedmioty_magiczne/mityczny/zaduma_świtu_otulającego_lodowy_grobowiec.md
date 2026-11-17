@@ -2,8 +2,6 @@
 * Typ - Pancerz
 * Pancerz - 7
 * Bariera - 12
-* Wymagana Siła - 10
-* Wymagana Inteligencja - 6
 * Rzadkość - Mityczny
 
 ## Nowa Umiejętność
