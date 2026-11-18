@@ -10,6 +10,8 @@
 (+) Przedmioty magiczne: Potężne - Serce Zniszczenia
 (+) Przedmioty magiczne: Arcymistrzowskie - Koło Wozu Skrzydlatej Fortecy
 (+) Przedmioty magiczne: Arcymistrzowskie - Plazmoidyczne Symulakrum
+(+) Walka: Statusy - Wrażliwość
+(+) Przedmioty magiczne: Boskie - Nić Czasu
 
 # 0.1.23
 (+) Przedmioty magiczne: Mityczne - Boska Wola

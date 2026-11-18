@@ -36,7 +36,7 @@ Im potężniejszy, rzadszy i droższy przedmiot, tym wyższy będzie poziom trud
 W ramach akcji, postać może wykonać 3 wybrane testy, by progresować poszczególne wymagania. Mogą to być 3 testy różnych statystyk lub tych samych, powtarzających się.
 
 ## Trening
-Postać poświęca czas na szlifowanie swoich umiejętności bojowych. Za każdą poświęconą na to akcję, Bazowa Stamina / Mana zwiększa się o 1 do następnej przerwy.
+Postać poświęca czas na szlifowanie swoich umiejętności bojowych. Za każdą poświęconą na to akcję, należy wykonać test statystyki najbardziej powiązanej z wykonywaną profesją. Bazowa Stamina / Mana zwiększa się o ilość sukesców / 3, zaokrąglone w górę, do następnej przerwy.
 
 ## Bardzo długi odpoczynek
 Postać wykorzystuje ten czas na odpoczynek i rekonwalescencję. Wszelkiego rodzaju urazu i choroby kończą się. Postać odzyskuje również 2k10 punktów Poczytalności.

@@ -28,6 +28,7 @@ Każdy kolejny poziom zwiększa obrażenia o kolejne 2k20.
     * Bohaterowie - Postać nie może być wzięta na cel ataku lub pojedynczy cel ataku obszarowego. Zapewnia ułatwienie do ataków dla ukrytego.
     * NPC - Postać staje się niewidoczna dla pozostałych. Zapewnia ułatwienie do ataków dla ukrytego.
 * Osłabienie - Następne zadane przez postać obrażenia są zmniejszone o połowę. Mnożnik ten nakłada się niezależnie od odporności i podatności na obrażenia.
+* Wrażliwość - Następne otrzymane przez postać obrażenia są zwiększone o połowę. Mnożnik ten nakłada się niezależnie od odporności i podatności na obrażenia.
 
 ## Wielokrotne
 * Krwawienie
