@@ -102,7 +102,7 @@
 * Koszt wykupienia - 800 PD
 * Czas aktywacji - 3 akcje
 * Zasięg - Pole bitwy
-* Opis - Zużywa 10 staminy. Można użyć raz na walkę. W wybranym miejscu na polu bitwy pojawia się Awatar Śmierci i jest mioninem do końca walki.
+* Opis - Zużywa 10 staminy. Można użyć raz na walkę. W wybranym miejscu na polu bitwy pojawia się Awatar Śmierci i jest minionem do końca walki.
 * Wzmocnienie - +5 hp dla Awatara - 2 staminy
 
 ## Startowe aktywne umiejętności eksploracyjne
@@ -116,4 +116,4 @@
 
 ### Formowanie zwłok
 * Czas trwania - 1 minuta
-* Opis - Udany test Arkan pozwala na przeszktałcenie pobliskich zwłok w dowolny przedmiot codziennego użytku wykonany z kości. Im większy obiekt, tym trudniejszy test.
+* Opis - Udany test Arkan pozwala na przekształcenie pobliskich zwłok w dowolny przedmiot codziennego użytku wykonany z kości. Im większy obiekt, tym trudniejszy test.

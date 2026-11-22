@@ -3,7 +3,7 @@
 ## Życie na krawędzi
 * Wymagania - Siła Woli 11; Mądrość 3
 * Koszt - 500 PD
-* Opis - HP zawsze wynosi 0. Bramy Śmierci nie nakładają żadnych kar. Zapewani niewrażliwość na obrażenia od chaosu i świętości.
+* Opis - HP zawsze wynosi 0. Bramy Śmierci nie nakładają żadnych kar. Zapewnia niewrażliwość na obrażenia od chaosu i świętości.
 
 ## Nienaturalna więź
 * Wymagania - Charyzma 10
@@ -23,7 +23,7 @@
 ## Magia krwi
 * Wymagania - Inteligencja 9
 * Koszt - 300 PD
-* Opis - Brak Many. Umożliwia wzmacnianie zaklęć Punktami Życia. Zapewnia małe leczenie (25%+1d4) na początku kazdej tury.
+* Opis - Brak Many. Umożliwia wzmacnianie zaklęć Punktami Życia. Zapewnia małe leczenie (25%+1d4) na początku każdej tury.
 
 ## Bastion
 * Wymagania - Wytrzymałość 9
@@ -33,7 +33,7 @@
 ## Karmazynowy szturm
 * Wymagania - Siła 8
 * Koszt - 100 PD
-* Opis - Podwaja nakładane Krawienie. Przeciwnicy z nałożonym w ten sposób Krwawieniem otrzymują dodatkowe obrażenia eskalujące za każdym razem, gdy wykonają akcję ruchu.
+* Opis - Podwaja nakładane Krwawienie. Przeciwnicy z nałożonym w ten sposób Krwawieniem otrzymują dodatkowe obrażenia eskalujące za każdym razem, gdy wykonają akcję ruchu.
 
 ## Taniec ze śmiercią
 * Wymagania - Zręczność 12; Mądrość 4
@@ -88,7 +88,7 @@
 ## Umysł ponad materią
 * Wymagania - Siła Woli 10; Mądrość 3
 * Koszt - 500 PD
-* Opis - Stamina, która pozostaje na koniec tury jest konwertowana na Pancerz. Mana, która pozostaje na koniec tury jest konwertowana na Barierę. Trwa do poczatku kolejnej tury. Regeneracja Staminy i Many spada o połowę.
+* Opis - Stamina, która pozostaje na koniec tury jest konwertowana na Pancerz. Mana, która pozostaje na koniec tury jest konwertowana na Barierę. Trwa do początku kolejnej tury. Regeneracja Staminy i Many spada o połowę.
 
 ## Nekromantyczny talizman
 * Wymagania - Charyzma 9
@@ -133,7 +133,7 @@
 ## Zaufana kompania
 * Wymagania - Charyzma 10
 * Koszt - 400 PD
-* Opis - Zadawane obrażenia zwiększają sie o jedną kostkę za każdego sojusznika, który zaatakował ten sam cel w trakcie tej samej rundy. Zmniejsza Pancerz o 1.
+* Opis - Zadawane obrażenia zwiększają się o jedną kostkę za każdego sojusznika, który zaatakował ten sam cel w trakcie tej samej rundy. Zmniejsza Pancerz o 1.
 
 ## Niezłomna postawa
 * Wymagania - Wytrzymałość 12; Mądrość 4
@@ -158,4 +158,4 @@
 ## Pakt Feniksa
 * Wymagania - Mądrość 5
 * Koszt - 500 PD
-* Opis - Można skorzystać raz na postać. Przegrany test Odporności na Śmierć pozwala na powrót do życia i pełnych sił w kolejnej turze. Nie można korzystać z misktur życia.
+* Opis - Można skorzystać raz na postać. Przegrany test Odporności na Śmierć pozwala na powrót do życia i pełnych sił w kolejnej turze. Nie można korzystać z mikstur życia.

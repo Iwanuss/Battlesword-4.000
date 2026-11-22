@@ -1,4 +1,4 @@
-# Rękwice do Podnoszenia Ciężarów
+# Rękawice do Podnoszenia Ciężarów
 * Typ - Rękawice
 * Rzadkość - Niezwykłe
 

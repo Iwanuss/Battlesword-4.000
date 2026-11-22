@@ -7,7 +7,7 @@
 * Pancerz - Średni
 
 ### Miodek
-Jeśli HP spadnie poniżej 50%, Niedźwiedź automatycznie poświęca jedną swoja akcję, aby skonsumować podręczny słoiczek miodu i uzyskać małe leczenie (25%+1d4).
+Jeśli HP spadnie poniżej 50%, Niedźwiedź automatycznie poświęca jedną swoją akcję, aby skonsumować podręczny słoiczek miodu i uzyskać małe leczenie (25%+1d4).
 
 ## Akcje
 ### Rozszarpanie

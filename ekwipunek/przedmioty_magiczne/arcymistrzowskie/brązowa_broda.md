@@ -9,8 +9,8 @@
 * Pancerz +1
 * Bariera +3
 * Odporność na Zamrożenie
-* Odpornośc na Podpalenie
-* Odpornośc na Porażenie
+* Odporność na Podpalenie
+* Odporność na Porażenie
 * Max HP +5
 * Ułatwienie w testach opartych o Percepcję
 

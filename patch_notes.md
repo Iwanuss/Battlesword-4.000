@@ -39,7 +39,7 @@
 (+) Przedmioty magiczne: Arcymistrzowskie - Brązowa Broda
 (+) Przedmioty magiczne: Niezwykłe - Zmyślne Buty
 (+) Przedmioty magiczne: Rzadkie - Targowy Bastion
-(+) Przedmioty magiczne: Niezwykłe - Rękwice do Podnoszenia Ciężarów
+(+) Przedmioty magiczne: Niezwykłe - Rękawice do Podnoszenia Ciężarów
 (+) Przedmioty magiczne: Mityczne - Nagolenniki ze Smoczych Kości
 (+) Przedmioty magiczne: Mityczne - Korona ze Smoczych Zębów
 
@@ -106,7 +106,7 @@ na "Bohaterowie - Na początku tury należy wykonać test Poczytalności z ujemn
 (+) Przedmioty magiczne: Arcymistrzowskie - Cewka Liminalna
 (+) Przedmioty magiczne: Arcymistrzowskie - Zapomniany Strażnik
 (+) Przedmioty magiczne: Arcymistrzowskie - Warkocz Środka Nocy
-(+) Przedmioty magiczne: Potężne - Rogaty Hełm Najeźdzcy
+(+) Przedmioty magiczne: Potężne - Rogaty Hełm Najeźdźcy
 (+) Przedmioty magiczne: Rzadkie - Pas Kupca-Naczelnika
 (+) Przedmioty magiczne: Rzadkie - Pierścień Odkrywcy
 (+) Przedmioty magiczne: Niezwykłe - Pierścień Niewzruszonego Umysłu

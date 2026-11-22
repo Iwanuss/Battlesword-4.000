@@ -1,4 +1,4 @@
-# Rękwice Srebrnego Splotu
+# Rękawice Srebrnego Splotu
 * Typ - Rękawice
 * Rzadkość - Niezwykłe
 
@@ -10,4 +10,4 @@ Para cienkich rękawic wykonanych z miękkiej czarnej skóry, tak elastycznej, �
 
 Wewnętrzna strona rękawic jest wyjątkowo gładka i ciepła, a opuszki palców pokryto niemal niewidoczną warstwą materiału, która nie tłumi dotyku, a wręcz przeciwnie, sprawia, że każda faktura wydaje się bardziej wyraźna.
 
-Mówi się, że pierwszą parę wykonano dla nadwornego jubilera, który potrafił oprawić klejnot mniejszy od paznokcia podczas jazdy konnej (wykonywał klejnoty podczas jazdy, a nie miał poznokcie mniejsze w trakcie jazdy), choć inni twierdzą, że należały do legendarnego włamywacza, którego nigdy nie schwytano.
+Mówi się, że pierwszą parę wykonano dla nadwornego jubilera, który potrafił oprawić klejnot mniejszy od paznokcia podczas jazdy konnej (wykonywał klejnoty podczas jazdy, a nie miał paznokcie mniejsze w trakcie jazdy), choć inni twierdzą, że należały do legendarnego włamywacza, którego nigdy nie schwytano.

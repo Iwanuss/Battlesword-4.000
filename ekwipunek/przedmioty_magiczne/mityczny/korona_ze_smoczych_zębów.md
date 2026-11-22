@@ -9,4 +9,4 @@
 **Niezidentyfikowana**
 
 ## Opis
-Korona wykonana jest z zielonej smoczej łuski, która przyczepiona jest do stelażu ze smoczych zębów. W stalażu oprawiono również dodatkowo elegancko rubiny.
+Korona wykonana jest z zielonej smoczej łuski, która przyczepiona jest do stelażu ze smoczych zębów. W stelażu oprawiono również dodatkowo elegancko rubiny.

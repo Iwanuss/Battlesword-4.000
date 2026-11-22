@@ -6,4 +6,4 @@
 * Kowalstwo +2
 
 ## Opis
-Buty pozwalają lepiej sie zaprzeć przy machaniu młotem w celu wykucia tego zajebistego miecza lub tej zajebistej zbroi.
+Buty pozwalają lepiej się zaprzeć przy machaniu młotem w celu wykucia tego zajebistego miecza lub tej zajebistej zbroi.

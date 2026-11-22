@@ -11,7 +11,7 @@
 * Jeździectwo +4
 
 **Spaczony**
-* Akcja: Odepchnięcie wszystkich przeciwników do sąsiednich sektrorów
+* Akcja: Odepchnięcie wszystkich przeciwników do sąsiednich sektorów
 * Każde użycie spaczonego modyfikatora powoduje zyskanie 1k4 poziomów Krwawienia
 
 ## Opis

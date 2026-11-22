@@ -3,7 +3,7 @@
 ## Broń biała
 | Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Cechy specjalne                      | Wymagana Majętność |
 |--------------------|-----------|---------|-------------------|--------------------------------------|--------------------|
-| Długi miecz        | 1k10      | 1H      | Zręczność         | Wszechtronny                         | 30                 |
+| Długi miecz        | 1k10      | 1H      | Zręczność         | Wszechstronny                         | 30                 |
 | Rapier             | 1k10      | 1H      | Zręczność         | Przeciwpancerny                      | 31                 |
 | Krótki miecz       | 1k6       | Offhand | Zręczność         | Parujący                             | 28                 |
 | Miecz dwuręczny    | 2k10      | 2H      | Zręczność         | Druzgocący                           | 35                 |
@@ -20,8 +20,8 @@
 | Szpony             | 2k6       | 2H      | Zręczność         | Wysysający, Krótki                   | 27                 |
 | Sztylet            | 1k6       | 1H      | Zręczność         | Skrytobójczy, Krótki                 | 18                 |
 | Sztylet sprężynowy | 1k4       | 1H      | Zręczność         | Skrytobójczy, Krótki, Krytyczny      | 20                 |
-| Kopia              | 2k10      | 1H      | Siła              | Druzgocący, Kawalerysjki             | 28                 |
-| Lanca              | 2k10      | 1H      | Zręczność         | Druzgocący, Kawalerysjki             | 26                 |
+| Kopia              | 2k10      | 1H      | Siła              | Druzgocący, Kawaleryjski             | 28                 |
+| Lanca              | 2k10      | 1H      | Zręczność         | Druzgocący, Kawaleryjski             | 26                 |
 
 ## Broń zasięgowa
 | Nazwa              | Obrażenia | Użycie  | Bazowa statystyka | Zasięg | Cechy specjalne             | Wymagana Majętność |
@@ -34,14 +34,14 @@
 | Broń rzucana       | 1k6       | 1H      | Siła              | Krótki |                             | 15                 |
 
 ## Słowniczek
-* Obrażenia - Postawowa ilośc kości wykorzystywanych przy ustalaniu obrażeń.
-* Użycie - Bronie mogą być jednoręczne, dwuręczne lub offhandowe (czyli mogą być trzymane jedynie z drugiej ręce). Bronie jednoręczne mogą być trzymane w obydwu dłoniach.
+* Obrażenia - Podstawowa ilość kości wykorzystywanych przy ustalaniu obrażeń.
+* Użycie - Bronie mogą być jednoręczne, dwuręczne lub offhandowe (czyli mogą być trzymane jedynie w drugiej ręce). Bronie jednoręczne mogą być trzymane w obydwu dłoniach.
 * Bazowa statystyka - Określa która statystyka pierwszorzędna jest bazą do obliczenia Staminy dla danej broni. Stamina wynosi połowę wartości tej statystyki. Połowa wartości statystyki pierwszorzędnej jest również dodawana do obrażeń zadawanych przez daną broń.
 * Wszechstronny - Zapewnia darmowe użycie jednego wzmocnienia umiejętności w trakcie rundy, wyłączając bezpośrednie zwiększenie obrażeń.
 * Przeciwpancerny - Na potrzeby określenia obrażeń, zmniejsza klasę pancerza oponenta o 1.
-* Parujący - Jeśli postać uzbrojona w taką broń obroni się przed atakiem wykonywanym w zwarciu, automatyczie zadaje atakującemu podstawowe obrażenia.
+* Parujący - Jeśli postać uzbrojona w taką broń obroni się przed atakiem wykonywanym w zwarciu, automatycznie zadaje atakującemu podstawowe obrażenia.
 * Druzgocący - Pozwala raz na turę na uzyskanie przewagi w ataku kosztem 1 Staminy.
-* Ogłuszający - Zwyczajni przeciwnicy trafieni tą bronią, zostają Oszołomieni na 1 turę. Oszołomienie elitarnych i mistrzowskich przeciwników jest również możliwe poprzez wmocnienie ataku kosztem odpowiednia 1 i 2 Staminy. Bossowie są odporni na Oszołomienie.
+* Ogłuszający - Zwyczajni przeciwnicy trafieni tą bronią, zostają Oszołomieni na 1 turę. Oszołomienie elitarnych i mistrzowskich przeciwników jest również możliwe poprzez wzmocnienie ataku kosztem odpowiednio 1 i 2 Staminy. Bossowie są odporni na Oszołomienie.
 * Miażdżący - Umożliwia przy każdym ataku jednorazowe nałożenie przeciwnikowi stanu Pokiereszowany kosztem 1 Staminy.
 * Wyprzedzający - Jeśli postać uzbrojona w taką broń zostanie zaatakowana w zwarciu, przed wykonaniem testu, może wykorzystać swoją reakcję, aby zaatakować oponenta.
 * Dowodzący - Pozwala na wykorzystywanie Staminy do wydawania rozkazów na polu bitwy. Więcej o rozkazach w rozdziale poświęconym minionom.

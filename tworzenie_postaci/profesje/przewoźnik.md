@@ -16,7 +16,7 @@
 * Sława - 3
 
 ## Pasywna cecha specjalna
-Pewny ładunek - Przewoźnik może korzystać z dodatkowego przedmiotu podręcznego niż wynikałoby z wyekwipowanego paska oraz maksymalne zużycia przedmiotów podręcznnych są zwiększone o 1.
+Pewny ładunek - Przewoźnik może korzystać z dodatkowego przedmiotu podręcznego niż wynikałoby z wyekwipowanego paska oraz maksymalne zużycia przedmiotów podręcznych są zwiększone o 1.
 
 ## Aktywna umiejętność specjalna
 Przeprawa - W ramach akcji, pozwala przenieść wybranego sojusznika (lub siebie) do dowolnego sektora w zasięgu średnim. Przeniesiona postać zyskuje +1 Pancerza do końca rundy.

@@ -23,18 +23,18 @@ Ostateczny poziom trudności testu może być jeszcze dodatkowo zmniejszony prze
 * Mityczny - Zapewnia unikalne możliwości, zwielokratniając moc swojego właściciela samą obecnością
 * Boski - Zapewnia moc porównywalną z boską władzą
 
-Z punkt eferencyjny mogą posłużyć modyfikatory wylistowane w sekcji o wytwórstwie eksperymentalnym.
+Z punkt referencyjny mogą posłużyć modyfikatory wylistowane w sekcji o wytwórstwie eksperymentalnym.
 
 ## Testy wytwórstwa
 Poziom trudności należy podzielić na ilość sukcesów niezbędnych do zebrania w danym teście, by ukończyć prace nad przedmiotem. Proporcje powinny zależeć od tego, które umiejętności mają najwyższy wkład w stworzenie danego przedmiotu. Umiejętności powiązane z wytwórstwem to:
 * Kowalstwo
 * Majsterkowanie
-* Wynalaczość
+* Wynalazczość
 * Znajdowanie
 * Sztuka
 * oraz jeśli wytwórstwo ma związek z badaniami magicznymi - Arkana
 
-W niektórych przypadkach mogą to być równiez inne umiejętności, jeśli ma to większy sens, np. Nawigacja przy tworzeniu magicznych kompasów lub map.
+W niektórych przypadkach mogą to być również inne umiejętności, jeśli ma to większy sens, np. Nawigacja przy tworzeniu magicznych kompasów lub map.
 
 ## Wytwórstwo eksperymentalne
 Bohater może też zaryzykować i spróbować stworzyć coś eksperymentalnego. Wtedy, osiągnięte efekty są całkowicie losowe. Jedyne co Bohater wybiera to bazowy typ przedmiotu. Wtedy, poziom trudności wytworzenia takiego przedmiotu jest równy wymaganej Majętności przedmiotu bazowego. Po zebraniu odpowiedniej ilości sukcesów, należy rzucić na odpowiednie tabele, by sprawdzić osiągniętą rzadkość oraz cechy.
@@ -112,7 +112,7 @@ Rzut k100:
 * 99-100: Poczytalność (Ułatwienie) +3
 
 ### Eksperymentalne bonusy (potężne+)
-Jeżeli cecha nie została nabyta w wyniku spaczenia, maksymalna ilośc użyć na walkę jest równa Mądrości.
+Jeżeli cecha nie została nabyta w wyniku spaczenia, maksymalna ilość użyć na walkę jest równa Mądrości.
 Rzut k100:
 * 1-3: Odporność na ogień
 * 4-6: Odporność na zimno
@@ -125,7 +125,7 @@ Rzut k100:
 * 25-27: Oddychanie pod wodą
 * 28-30: Pozwala na przerzut
 * 31-33: Akcja: Unieruchomienie wszystkich przeciwników w sektorze
-* 34-36: Akcja: Odepchnięcie wszystkich przeciwników do sąsiednich sektrorów
+* 34-36: Akcja: Odepchnięcie wszystkich przeciwników do sąsiednich sektorów
 * 37-39: Reakcja: Anulowanie ataku w krótkim zasięgu
 * 40-42: Reakcja: Odbicie otrzymanych obrażeń
 * 43-45: Akcja: Zyskanie niewrażliwości na 1 turę
@@ -160,7 +160,7 @@ W momencie spaczenia przedmiotu, należy wykonać serię rzutów, zaczynając od
 
 Następnie należy rzucić na efekt negatywny, którym zostaje obarczony przedmiot. 
 
-W przypadku wyników 1-3 w rzucie na efekt pozytywny, nalezy rzucić na tabelę eksperymentalnych bonusów (niezwykłych / rzadkich) i zastosować jego modyfikator jako negatywny, np. wynik 93 nałoży karę -3 do HP.
+W przypadku wyników 1-3 w rzucie na efekt pozytywny, należy rzucić na tabelę eksperymentalnych bonusów (niezwykłych / rzadkich) i zastosować jego modyfikator jako negatywny, np. wynik 93 nałoży karę -3 do HP.
 
 W przypadku wyniku 4 w rzucie na efekt pozytywny, należy wykonać rzut k10:
 1. Każde użycie spaczonego modyfikatora powoduje utratę 1 Poczytalności

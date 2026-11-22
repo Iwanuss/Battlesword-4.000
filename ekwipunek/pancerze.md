@@ -39,11 +39,11 @@ Wymagania - Siła 14
 |---------------------|--------------------|---------|
 | Pancerz półpłytowy  | 45                 | 7       |
 | Zbroja płytowa      | 50                 | 8       |
-| Zbroja adamntytowa  | 55                 | 9       |
+| Zbroja adamantytowa  | 55                 | 9       |
 
 ## Tarcza
 | Nazwa               | Wymagana Majętność | Pancerz |
 |---------------------|--------------------|---------|
 | Tarcza drewniana    | 15                 | 1       |
 | Tarcza metalowa     | 30                 | 2       |
-| Tarcza adamntytowa  | 45                 | 3       |
+| Tarcza adamantytowa  | 45                 | 3       |

@@ -29,8 +29,8 @@ I to wszystko nasze - Zapewnia ułatwienie we wszystkich testach Sławy swojej D
 ## Przerwa profesyjna - Wielka Polityka
 W ramach przerwy między przygodami, szlachcic może rozwijać swoje polityczne koneksje i forsować swoją agendę.
 
-W ramach akcji przerwy, szlachci może wykonać następujące testy i zsumować sukcesy:
-* Lingiwstyka
+W ramach akcji przerwy, szlachcic może wykonać następujące testy i zsumować sukcesy:
+* Lingwistyka
 * Dowodzenie
 * Przekonywanie
 
@@ -54,5 +54,5 @@ Za każde 5 sukcesów, szlachcic może zawrzeć sojusz lub zaszkodzić wybranemu
     * Sojusz - Zapewnia ułatwienia do wszystkich testów związanych z rzemiosłem.
     * Wrogość - Zmniejsza poziom trudności wytwarzania przedmiotów o 5. *
 * Ród Larethorn
-    * Sojusz - W trakcie walki, raz na rundę, powala dwóm Bohaterom Gracza na wykonanie swoich tur pod rząd bez tury przeciwnika między nimi. *
+    * Sojusz - W trakcie walki, raz na rundę, pozwala dwóm Bohaterom Gracza na wykonanie swoich tur pod rząd bez tury przeciwnika między nimi. *
     * Wrogość - Raz na walkę, jeden członek Drużyny może pominąć swoją turę, by wyleczyć wszystkich członków Drużyny do 100% HP.

@@ -6,4 +6,4 @@
 * +2 do Znajdowania
 
 ## Opis
-Amulet to dosyć prosty wisiorek z wykonanym ze złota wykrzyknikiem jako wisiorkiem. Amulet podskakuje frenetycznie, alarmując uzytkownika o dobrych okazjach w okolicy.
+Amulet to dosyć prosty wisiorek z wykonanym ze złota wykrzyknikiem jako wisiorkiem. Amulet podskakuje frenetycznie, alarmując użytkownika o dobrych okazjach w okolicy.

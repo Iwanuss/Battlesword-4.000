@@ -3,7 +3,7 @@
 * Obrażenia bazowe - 1k10
 * Użytkowanie - Jędnoręczna
 * Statystyka bazowa - Siła
-* Cechy specjalne - Ogłsuzający
+* Cechy specjalne - Ogłuszający
 * Rzadkość - Potężny
 
 ## Modyfikatory

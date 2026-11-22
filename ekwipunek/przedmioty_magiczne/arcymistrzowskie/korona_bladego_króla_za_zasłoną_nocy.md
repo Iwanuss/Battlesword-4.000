@@ -19,4 +19,4 @@
 ## Opis
 Bezświatły świat, ciche rządy, para niewidzących oczu, żerują na twym bólu.
 
-Ziarno wielkości zasadzane jest w ciemności, podlewane cierpieniem, doglądane przez desperację i rozkwitajace stalowymi kwiatami zwycięstwa.
+Ziarno wielkości zasadzane jest w ciemności, podlewane cierpieniem, doglądane przez desperację i rozkwitające stalowymi kwiatami zwycięstwa.

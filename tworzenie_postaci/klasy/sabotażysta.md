@@ -62,7 +62,7 @@
     * Rozbrojenie mistrzowskiego oponenta - 2 staminy
     * Rozbrojenie bossa - 5 staminy
     * Rozbrojenie uber bossa - 10 staminy
-    * Unieszkodliwienie broni intregralnej na 1 rundę - 3 staminy
+    * Unieszkodliwienie broni integralnej na 1 rundę - 3 staminy
 
 ### Zasłona dymna
 * Koszt wykupienia - 250 PD
@@ -80,7 +80,7 @@
 * Czas aktywacji - Akcja
 * Zasięg - Średni (60 stóp) (do 2 sąsiednich sektorów)
 * Opis - Pozwala na powiązanie oczekiwanego wydarzenia na polu bitwy z eksplozją ładunków wybuchowych w innym, np. ładunki pod murem obronnym wybuchną, gry strzelec na strażnicy zaatakuje drużynowego kapłana. Im mniej precyzyjny będzie opis aktywatora wybuchu, tym więcej staminy kosztować będzie użycie tej umiejętności. Eksplozja wywołana aktywatorem obejmuje wszystkich przeciwników w danym sektorze pola bitwy i zadaje im 3k10+10 obrażeń od ognia.
-* Wzmocnienie - Zwiększenie obrazeń o 1k10 - 1 staminy
+* Wzmocnienie - Zwiększenie obrażeń o 1k10 - 1 staminy
 
 ### Reakcja łańcuchowa
 * Wymagania - 8 Mądrości
@@ -101,4 +101,4 @@
 
 ### Odwrócenie uwagi
 * Czas trwania - 10 sekund
-* Opis - Pozwala na uratowanie pojedynczego sojusznika w momencie, gdy nie powiedzie się mu test Skradania. W takim przypadku nnależy wykonać test Zwinnych dłoni. Ilość sukcesów w tym teście zastępuje wynik testu Skradania wybranego sojusznika.
+* Opis - Pozwala na uratowanie pojedynczego sojusznika w momencie, gdy nie powiedzie się mu test Skradania. W takim przypadku należy wykonać test Zwinnych dłoni. Ilość sukcesów w tym teście zastępuje wynik testu Skradania wybranego sojusznika.

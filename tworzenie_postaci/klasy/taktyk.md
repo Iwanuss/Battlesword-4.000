@@ -1,6 +1,6 @@
 # Taktyk
 
-## Predyszpozycje
+## Predyspozycje
 ### Pierwszorzędne
 * Inteligencja
 

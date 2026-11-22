@@ -16,7 +16,7 @@
 
 **Spaczony**
 * Każde pokonanie przeciwnika zabiera 1 HP
-* Każde pokonanie przeciniwka zabiera 1 Energii
+* Każde pokonanie przeciwnika zabiera 1 Energii
 
 ## Opis
 Niekończąca się rzeź wojny bezlitośnie ściera ciało i umysł.

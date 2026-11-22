@@ -5,7 +5,7 @@
 * Inteligencja
 
 ### Defensywne
-* Wytrzymałosć
+* Wytrzymałość
 * Siła Woli
 
 ### Drugorzędne
@@ -32,7 +32,7 @@
 * Opis - Wybrany sojusznik w zasięgu otrzymuje 5 Bariery.
 * Wzmocnienia
     * +5 Bariery - 1 many
-    * Następne obrażenia zadane przez sojusznika są zwiekszone o wartość jego głównej statystyki - 2 many
+    * Następne obrażenia zadane przez sojusznika są zwiększone o wartość jego głównej statystyki - 2 many
     * Usunięcie 1 poziomu paniki - 1 many
     * Usunięcie 1 poziomu pokiereszowania - 2 many
     * Dodatkowy sojusznik otrzymuje błogosławieństwo - 2 many

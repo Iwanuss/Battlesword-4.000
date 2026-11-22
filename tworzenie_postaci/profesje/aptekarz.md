@@ -37,18 +37,18 @@ W ramach akcji przerwy, Aptekarz może wykonać testy i zsumować sukcesy:
 
 Każde 5 sukcesów pozwala na dodanie jednego z efektów z poniższej listy do dowolnego przedmiotu podręcznego. Efekty nie mogą się dublować na jednym przedmiocie.
 
-1. Zmniejsza zuzycia o 1. Postać odzyskuje wszystkie HP na koniec rundy.
+1. Zmniejsza zużycia o 1. Postać odzyskuje wszystkie HP na koniec rundy.
 2. Postać otrzymuje obrażenia od chaosu równe Max HP. Podwaja zadawane obrażenia do końca rundy.
 3. Zmniejsza zużycia do 1. Postać automatycznie zyskuje małe leczenie następnym razem, gdy stanie u Bram Śmierci.
 4. Zmniejsza zużycia do 1. Podwaja zyskiwaną Stamine i Manę do końca rundy.
 5. Zmniejsza zużycia o 1. Postać poświęca HP równe 25% Max HP. Postać natychmiast odzyskuje całą Barierę.
-6. Zwiększa Szczęście o 1k6 do końca walki. Postać świeci się jak psu jajca. Postać zyskuje widzenie w ciemności. Postać zyskuje odpornośc na święte obrażenia.
+6. Zwiększa Szczęście o 1k6 do końca walki. Postać świeci się jak psu jajca. Postać zyskuje widzenie w ciemności. Postać zyskuje odporność na święte obrażenia.
 7. Zapewnia średnie leczenie. Spawnuje 2 wrogo nastawione robale.
 8. Neguje jedną wybraną podatność na obrażenia do końca walki.
 9. Zamienia wszystkie HP -1 na Barierę.
 10. Zamienia połowę otrzymywanych obrażeń od ognia i błyskawic na obrażenia od zimna. Postać otrzymuje o połowę mniej stanów Zamrożenia i traci je dwa razy szybciej.
 11. Uświęca sektor wokół postaci. Zadaje 3k12 świętych obrażeń wszystkim przeciwnikom w tym samym sektorze.
-12. Ciosy krytyczne nakładają stany Zatrucia zamiast zadawać eksplopdujące obrażenia do końca walki.
+12. Ciosy krytyczne nakładają stany Zatrucia zamiast zadawać eksplodujące obrażenia do końca walki.
 13. Neguje następny otrzymany cios kosztem 1 Pancerza do końca walki.
 14. Zapewnia duże leczenie. Postać otrzymuje obrażenia od chaosu równe 25% Max HP.
 15. Zapewnia niewrażliwość na Zamrożenie, klątwy i Zmęczenie na 2 rundy.
