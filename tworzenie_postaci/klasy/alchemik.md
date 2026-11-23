@@ -29,7 +29,7 @@
 ## Startowe aktywne umiejętności bojowe
 ### Remiks
 * Czas aktywacji - Akcja
-* Zasięg - Bespośredni
+* Zasięg - Bezpośredni
 * Opis - Alchemik tworzy bojową miksturę na poczekaniu, gotów do miotnięcia nią i zadanie 1k8 losowych obrażeń.
     * +1 kość obrażeń - 1 Staminy
     * Zwiększenie zasięgu do krótkiego - 1 Staminy
@@ -42,8 +42,8 @@
 ### Skimer
 * Czas aktywacji - Akcja
 * Zasięg - Bezpośredni (obecny sektor)
-* Opis - Alchemik tworzy defensywną miskturę na poczekaniu, gotów do miotnięcia nią i uleczenia sojusznika (małe leczenie)
-* Wmocnienia
+* Opis - Alchemik tworzy defensywną miksturę na poczekaniu, gotów do miotnięcia nią i uleczenia sojusznika (małe leczenie)
+* Wzmocnienia
     * Zwiększenie zasięgu do krótkiego - 1 Staminy
     * Zwiększenie zasięgu do średniego - 2 Staminy
     * Zwiększenie zasięgu do długiego - 3 Staminy
@@ -55,7 +55,7 @@
 ### Spopielenie / Zamrożenie
 * Koszt wykupienia - 250 PD
 * Czas aktywacji - Akcja
-* Zasięg - Bespośredni
+* Zasięg - Bezpośredni
 * Opis - Alchemik popala lub zamraża cały wybrany sektor w zasięgu
 * Wzmocnienia
     * Zwiększenie zasięgu do krótkiego - 1 Staminy / Many
@@ -88,6 +88,6 @@
 * Wymagania - 8 Mądrości
 * Koszt wykupienia - 800 PD
 * Czas aktywacji - Akcja
-* Zasięg - Bespośredni
+* Zasięg - Bezpośredni
 * Koszt aktywacji - 10 Staminy / Many
 * Opis - Alchemik zadaje obrażenia wszystkim przeciwnikom na polu bitwy w wysokości 10k10 obrażeń żrących oraz leczy wszystkich sojuszników (duże leczenie).

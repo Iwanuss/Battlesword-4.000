@@ -28,7 +28,7 @@ Przedmioty podręczne zajmują miejsce przy pasku postaci. Nie są one zużywaln
 | Woda święcona            | 35                 | 2       | Odporność na chaos na 2 rundy                                                                                  |
 | Kremówka Silvermana      | 35                 | 2       | Odporność na świętość na 2 rundy                                                                               |
 | Miętówka z Altdris       | 40                 | 3       | Niewrażliwość na zamrożenie na 1 rundę; Zamraża teren wokół                                                    |
-| Majonez Chodziaża        | 40                 | 2       | Odpornośc na fizyczne na 3 rundy; Zwabia przeciwników wokół                                                    |
+| Majonez Chodziaża        | 40                 | 2       | Odporność na fizyczne na 3 rundy; Zwabia przeciwników wokół                                                    |
 | Kawusia po Po-Singarsku  | 40                 | 3       | Ściąga poziom Zmęczenia; Ściąga 1 poziom dowolnego statusu                                                     |
 | Czekolada z Eversong     | 40                 | 2       | Drugie najwyższe rzuty na kościach obrażeń również są ciosami krytycznymi przez 3 rundy (np. 7 na k8, 5 na k6) |
 | Ciasteczko z wróżbą      | 40                 | 2       | Można wypić w reakcji; Pozwala na przerzut                                                                     |

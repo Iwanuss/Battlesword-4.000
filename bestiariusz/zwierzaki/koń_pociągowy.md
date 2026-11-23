@@ -8,7 +8,7 @@
 * Pancerz - Brak
 
 ### Silny jak koń
-Zdolny do przenoszenia wielkich ciężarów. Potrafi udźwignąć jeźdzca i dwóch pasażerów. Jego prędkość to 1 sektor na akcję.
+Zdolny do przenoszenia wielkich ciężarów. Potrafi udźwignąć jeźdźca i dwóch pasażerów. Jego prędkość to 1 sektor na akcję.
 
 ## Akcje
 ### Ugryzienie

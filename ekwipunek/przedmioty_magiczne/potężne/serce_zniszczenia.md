@@ -13,5 +13,5 @@
 * 25% odzyskiwanego HP jest konwertowane na Energię
 
 ## Opis
-Wykute z krwi niezlicoznych wojen,
+Wykute z krwi niezliczonych wojen,
 jego pragnienie dopiero się zaczęło.

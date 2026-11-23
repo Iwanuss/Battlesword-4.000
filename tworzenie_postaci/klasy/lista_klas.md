@@ -1,6 +1,6 @@
 # Klasy
 
-Klasy są pogrupowane w archetypy. Archetypy nie mają żadnego przełożenia na rozgrywkę i istnieją jedynie po to, aby ułatwić przesukiwanie i wybór docelowej klasy oraz zapewnić dodatkowe deskryptory, czym dana klasa z grubsza jest.
+Klasy są pogrupowane w archetypy. Archetypy nie mają żadnego przełożenia na rozgrywkę i istnieją jedynie po to, aby ułatwić przeszukiwanie i wybór docelowej klasy oraz zapewnić dodatkowe deskryptory, czym dana klasa z grubsza jest.
 
 Wybór klasy zapewnia:
 * Predyspozycje
@@ -9,8 +9,8 @@ Wybór klasy zapewnia:
 * Sposób obliczania Punktów Życia
 
 ## Żołnierze
-* Taktyk - skupia sie na dowodzeniu i manewrach na polu bitwy
-* Łowca - skupia się na zadawaniu obrażeń poteżnym przeciwnikom
+* Taktyk - skupia się na dowodzeniu i manewrach na polu bitwy
+* Łowca - skupia się na zadawaniu obrażeń potężnym przeciwnikom
 * Legionista - skupia się na zwabianiu przeciwników, przechwytywaniu ciosów i wspieraniu pobliskich sojuszników
 
 ## Cienie
@@ -24,17 +24,17 @@ Wybór klasy zapewnia:
 * Watażka - skupia się na okrzykach bojowych wspierających sojuszników i zastraszających przeciwników
 
 ## Czarnoksiężnicy
-* Nekromanta - skupia sie na budowaniu armii nieumarłych minionów
+* Nekromanta - skupia się na budowaniu armii nieumarłych minionów
 * Okultysta - skupia się na przywoływaniu infernalnych minionów
 * Kanał Żywej Magii - skupia się na wyzwalaniu dewastacyjnych mocy magii, kosztem własnego bezpieczeństwa
 
 ## Czarodzieje
 * Chronomanta - skupia się magii manipulującej czasem i przewidywaniu przyszłości
 * Elementalista - skupia się na magii żywiołów
-* Iluzjonista - skupia sie na magii tworzenia przedmiotów i zjawisk, prawdziwych i nieprawdziwych
+* Iluzjonista - skupia się na magii tworzenia przedmiotów i zjawisk, prawdziwych i nieprawdziwych
 
 ## Strzelcy
-* Snajper - skupia się na walce długodystansowej przeciwko pojedycznym celom
+* Snajper - skupia się na walce długodystansowej przeciwko pojedynczym celom
 * Stróż - skupia się na walce dystansowej oraz walce z wykorzystaniem otoczenia
 * Pionier - skupia się na przetrwaniu, wsparciu sojuszników oraz zastawianiu pułapek
 
@@ -49,7 +49,7 @@ Wybór klasy zapewnia:
 * Przewodnik - skupia się na dowodzeniu i przemawianiu
 
 ## Druid
-* Mistrz Przemian - skupia sie na przmienianach w aspekty zwierzęce
+* Mistrz Przemian - skupia się na przemianach w aspekty zwierzęce
 * Grzybiarz  - skupia się na magii natury
 * Władca Lasów - skupia się na budowaniu armii zwierzaków
 

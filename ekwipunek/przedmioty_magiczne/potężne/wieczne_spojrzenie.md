@@ -8,4 +8,4 @@
 * Bariera +(50% Bazowej Many)
 
 ## Opis
-To co zobaczli było tym w co uwierzyli i uwierzyli w Sehnaine, która ich nie opuściła
+To co zobaczyli było tym w co uwierzyli i uwierzyli w Sehnaine, która ich nie opuściła

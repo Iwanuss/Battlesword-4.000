@@ -37,7 +37,7 @@
 * Czas aktywacji - Akcja
 * Zasięg - Jak użytej broni
 * Opis - Skrytobójca dezorientuje oponenta szybkim atakiem, wystawiając go na nadchodzący, decydujący atak. Bazowe obrażenia równe są obrażeniom użytej broni.
-* Wmocnienia
+* Wzmocnienia
     * +1 kość obrażeń - 1 Staminy
     * Nałożenie 1 poziomu Porażenia - 1 Staminy
     * Zaatakowanie dodatkowego celu w zasięgu - 3 Staminy

@@ -35,7 +35,7 @@ Wybór profesji zapewnia:
 * Podżegacz
 * Posłaniec
 * Przemytnik
-* Prezewoźnik
+* Przewoźnik
 * Rybak
 * Skryba
 * Sługa

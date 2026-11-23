@@ -103,7 +103,7 @@
 
 ### Zwierzęcy Instynkt
 * Czas trwania - 30 minut
-* Opis - Zestrojenie się ze swoim wierchowcem wymaga poświęcenia mu chwili czasu. Raz dziennie należy wykonać test Jeździectwa. Sukces zapewnia ułatwienie we wszystkich testach Spostrzegawczości oraz Ostrożności.
+* Opis - Zestrojenie się ze swoim wierzchowcem wymaga poświęcenia mu chwili czasu. Raz dziennie należy wykonać test Jeździectwa. Sukces zapewnia ułatwienie we wszystkich testach Spostrzegawczości oraz Ostrożności.
 
 ### Przetarcie szlaku
 * Czas trwania - 10 minut

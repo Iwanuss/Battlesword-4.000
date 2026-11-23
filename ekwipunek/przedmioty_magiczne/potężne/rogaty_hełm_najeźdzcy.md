@@ -1,4 +1,4 @@
-# Rogaty Hełm Najeźdzcy
+# Rogaty Hełm Najeźdźcy
 * Typ - Hełm
 * Rzadkość - Potężny
 

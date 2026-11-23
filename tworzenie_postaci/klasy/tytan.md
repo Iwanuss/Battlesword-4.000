@@ -77,7 +77,7 @@
 
 ## Startowe aktywne umiejętności eksploracyjne
 ### Wolny spadek
-Podczas upadku pozwala na wykonanie tetsu Wytrzymałości. Suckes oznacza zyskanie odporności na obrażenia od upadku. 10 sukcesów lub więcej oznacza niewrażliwość na obrażenia od upadku.
+Podczas upadku pozwala na wykonanie testu Wytrzymałości. Sukces oznacza zyskanie odporności na obrażenia od upadku. 10 sukcesów lub więcej oznacza niewrażliwość na obrażenia od upadku.
 
 ### Mocna głowa
 * Czas trwania - 1 minuta

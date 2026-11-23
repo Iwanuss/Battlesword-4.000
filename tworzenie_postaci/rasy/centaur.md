@@ -8,7 +8,7 @@
 Duży (2x2)
 
 ## Pasywna cecha specjalna
-Pół człowiek, pół koń - Centaur może zawsze korzystać z dodatkowych cech wynikających z jazdy na wierchowcu, choć z oczywistych przyczyn nie można go z żadnego wierzchowca zrzucić.
+Pół człowiek, pół koń - Centaur może zawsze korzystać z dodatkowych cech wynikających z jazdy na wierzchowcu, choć z oczywistych przyczyn nie można go z żadnego wierzchowca zrzucić.
 
 ## Aktywna umiejętność specjalna
 Z kopyta - Centaur może skorzystać z jednego z dwóch wzmocnień podczas wykonywania akcji Ruchu:

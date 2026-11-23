@@ -41,7 +41,7 @@
 * Czas aktywacji - Akcja
 * Zasięg - Bezpośredni (obecny sektor)
 * Opis - Władca lasu przywołuje korzenie i rośliny, które oplatają wybranego przeciwnika i zadają mu 1k8 obrażeń fizycznych.
-* Wmocnienia
+* Wzmocnienia
     * Zwiększenie zasięgu do krótkiego - 1 many
     * Zwiększenie zasięgu do średniego - 2 many
     * Zwiększenie zasięgu do długiego - 3 many
@@ -56,7 +56,7 @@
 * Koszt wykupienia - 250 PD
 * Czas aktywacji - Akcja
 * Zasięg - Bespośredni
-* Opis - Władca lasu przywołuje na pomoc 1 niedżwiedzia, który walczy po jego stronie do końca walki.
+* Opis - Władca lasu przywołuje na pomoc 1 niedźwiedzia, który walczy po jego stronie do końca walki.
 * Wzmocnienia
     * +1 niedźwiedź - 4 Staminy / Many
     * +10 Max HP dla niedźwiedzi - 1 Staminy / Many
@@ -78,7 +78,7 @@
 * Czas aktywacji - Akcja
 * Zasięg - Długi
 * Koszt aktywacji - 1 Staminy / Many za każdy przebyty sektor
-* Opis - Władca Lasu wykorzystuje mistyczne ścieżki życia obecne w każdym ekosystemie i natychmiastowo przemieszcza się w wybrane miejse w wybranym sektorze w zasięgu.
+* Opis - Władca Lasu wykorzystuje mistyczne ścieżki życia obecne w każdym ekosystemie i natychmiastowo przemieszcza się w wybrane miejsce w wybranym sektorze w zasięgu.
 * Wzmocnienia
     * Dodatkowe małe leczenie (25%+1d4) - 1 Staminy / Many
     * Dodatkowe średnie leczenie (50%+1d6) - 2 Staminy / Many

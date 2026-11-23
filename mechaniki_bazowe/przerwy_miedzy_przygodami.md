@@ -2,7 +2,7 @@
 
 Pomiędzy każdą przygodą, niezależnie od ilości czasu, który między nimi upływa, każdy Bohater ma do dyspozycji 3 akcje przerwy. W niektórych przypadkach, Mistrz Gry może zwiększyć ilość akcji.
 
-Poniższa lista jest listą akcji uniwersalnych, aczkolwiek nie wyczerpuje ona listy potencjalnych aktyności, które dana postać może chcieć podjąć. Botanik może chcieć tworzyć swój własny ogród w trakcie swojej przerwy, a nekromanta przeprowadzać magiczne eksperymenty odblokowujące możliwości wskrzeszania nowych, bardziej niebezpiecznych istot.
+Poniższa lista jest listą akcji uniwersalnych, aczkolwiek nie wyczerpuje ona listy potencjalnych aktywności, które dana postać może chcieć podjąć. Botanik może chcieć tworzyć swój własny ogród w trakcie swojej przerwy, a nekromanta przeprowadzać magiczne eksperymenty odblokowujące możliwości wskrzeszania nowych, bardziej niebezpiecznych istot.
 
 ## Handel przedmiotami
 Każda postać może podjąć się jednorazowo w trakcie przerwy tej akcji za darmo.
@@ -23,7 +23,7 @@ Ilość sukcesów podzielona na 3 i zaokrąglona w górę w tym teście jest pod
 Postać zajmuje się wytwarzaniem lub ulepszaniem różnych przedmiotów. Należy ustalić:
 * Co ma być wytworzone
 * Rzadkość przedmiotu
-* Koszt składników nbiezbędnych do wytworzenia (np. magiczna zbroja płytowa będzie droższa do wytworzenia niż magiczna skórznia o tych samych cechach)
+* Koszt składników niezbędnych do wytworzenia (np. magiczna zbroja płytowa będzie droższa do wytworzenia niż magiczna skórznia o tych samych cechach)
 
 Im potężniejszy, rzadszy i droższy przedmiot, tym wyższy będzie poziom trudności wytwórstwa. To z kolei wpłynie na ilość niezbędnych sukcesów w testach wytwórstwa, aby ukończyć dany przedmiot. Testy te będą podzielone pomiędzy kilka statystyk:
 * Kowalstwo
@@ -36,19 +36,19 @@ Im potężniejszy, rzadszy i droższy przedmiot, tym wyższy będzie poziom trud
 W ramach akcji, postać może wykonać 3 wybrane testy, by progresować poszczególne wymagania. Mogą to być 3 testy różnych statystyk lub tych samych, powtarzających się.
 
 ## Trening
-Postać poświęca czas na szlifowanie swoich umiejętności bojowych. Za każdą poświęconą na to akcję, należy wykonać test statystyki najbardziej powiązanej z wykonywaną profesją. Bazowa Stamina / Mana zwiększa się o ilość sukesców / 3, zaokrąglone w górę, do następnej przerwy.
+Postać poświęca czas na szlifowanie swoich umiejętności bojowych. Za każdą poświęconą na to akcję, należy wykonać test statystyki najbardziej powiązanej z wykonywaną profesją. Bazowa Stamina / Mana zwiększa się o ilość sukcesów / 3, zaokrąglone w górę, do następnej przerwy.
 
 ## Bardzo długi odpoczynek
 Postać wykorzystuje ten czas na odpoczynek i rekonwalescencję. Wszelkiego rodzaju urazu i choroby kończą się. Postać odzyskuje również 2k10 punktów Poczytalności.
 
 ## Impreza okolicznościowa
-W ramach akcji, ostać wyprawia imprezę z okazji urodzin, imienin lub jakiegoś ważnego dla niej święta. Wszyscy zaproszeni mogą wykonać 3 testy Szczęścia. Każda porażka zwiększa ich Szczęście o 1.
+W ramach akcji, postać wyprawia imprezę z okazji urodzin, imienin lub jakiegoś ważnego dla niej święta. Wszyscy zaproszeni mogą wykonać 3 testy Szczęścia. Każda porażka zwiększa ich Szczęście o 1.
 
 ## Studiowanie tajemnych tomów
 Postać spędza czas na poszerzaniu swojej wiedzy na tematy wszelakie. Pozwala na zmianę wyniku na kości na 1 w dowolnym teście Wiedzy oraz Arkan kosztem 1 Szczęścia do następnej przerwy. Pozwala 3 razy na wykonanie akcji bojowej Analizy w ramach akcji natychmiastowej.
 
 ## Kreatywna księgowość
-Postać stara się zorganizować tymczosowe dodatkowe środki. W ramach akcji należy wykonać test Księgowości z dodatkowym modyfikatorem równym połowie Sławy. Ilość sukcesów w tym teście zwiększa tymczasowo Majętność Drużyny do następnej przerwy.
+Postać stara się zorganizować tymczasowe dodatkowe środki. W ramach akcji należy wykonać test Księgowości z dodatkowym modyfikatorem równym połowie Sławy. Ilość sukcesów w tym teście zwiększa tymczasowo Majętność Drużyny do następnej przerwy.
 
 ## Behawiorystyka
 Postać zacieśnia więzi ze swoim zwierzęcym towarzyszem, np, wierzchowcem lub minionem. W ramach akcji należy wykonać test Dowodzenia, Psychologii lub Sztuki Przetrwania. Sukces pozwala na rozwinięcie jednej cechy lub umiejętności kompana.

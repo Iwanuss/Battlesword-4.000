@@ -16,6 +16,6 @@
 ## Opis
 Mundur to purpurowa tunika wzmocniona umagicznioną nicią generującą pole ochronne. Na ramionach wyszyte białą nicią są symbole Białego Feniksa. Tunika jest na tyle gruba, by zapewnić ciepło w chłodne dni i na tyle przewiewna, by nie przegrzewać użytkownika w ciepłe dni. Jest również na tyle gruba, by częściowo amortyzować nadchodzące uderzenia.
 
-Z noszeniem tego munduru jest również związana stojąca za nim pewność siebie i autorytet tego starożytnego mocarstwa. Noszący nie tylko są bardziej skłonni do stawienia czoła najgorszym horrorom, ale również znacznie wyłatwiej wychodzi im inspirowanie i wywieranie wpływu na otaczających ich podwładnych i współwalczących.
+Z noszeniem tego munduru jest również związana stojąca za nim pewność siebie i autorytet tego starożytnego mocarstwa. Noszący nie tylko są bardziej skłonni do stawienia czoła najgorszym horrorom, ale również znacznie łatwiej wychodzi im inspirowanie i wywieranie wpływu na otaczających ich podwładnych i współwalczących.
 
 Niestety, energie Wielkiego Kataklizmu wpłynęły na ten mundur, kąpiąc go w wypaczających energiach.

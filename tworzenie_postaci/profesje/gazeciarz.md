@@ -34,7 +34,7 @@ W ramach akcji przerwy między przygodami, gazeciarz może wykonać następując
 * Analiza
 * Wiedza
 
-Każde 5 sukcesów pozwala na ułożenie jednej mistrzowskiej krzyżówki. Mistrzowskie krzyżówki można następnie przypiąć do wybranego przedmiotu przy pomocy woskowej pieczęci, wzmacniając go. Każdy postać może być wyposażona maksymalnie w jedną krzyżówkę danego typu.
+Każde 5 sukcesów pozwala na ułożenie jednej mistrzowskiej krzyżówki. Mistrzowskie krzyżówki można następnie przypiąć do wybranego przedmiotu przy pomocy woskowej pieczęci, wzmacniając go. Każda postać może być wyposażona maksymalnie w jedną krzyżówkę danego typu.
 * [Jolka](https://pl.wikipedia.org/wiki/Jolka_(krzy%C5%BC%C3%B3wka))
     * Broń - Pozwala na rzucenie bronią białą, wykonując nią atak na krótki zasięg. Broń wraca do ręki właściciela na koniec tury.
     * Pancerz - +1 do Pancerza
@@ -42,7 +42,7 @@ Każde 5 sukcesów pozwala na ułożenie jednej mistrzowskiej krzyżówki. Mistr
 * [Krzyżówka magiczna](https://pl.wikipedia.org/wiki/Krzy%C5%BC%C3%B3wka_magiczna)
     * Broń - Zwiększa bazową Staminę / Manę o 1
     * Pancerz - Wytrzymałość +2
-    * Biżuteria - Zmniejsza obrażenia otrzymywanne ze wszystkich źródeł o 2
+    * Biżuteria - Zmniejsza obrażenia otrzymywane ze wszystkich źródeł o 2
 * [Krzyżówka panoramiczna](https://pl.wikipedia.org/wiki/Krzy%C5%BC%C3%B3wka_panoramiczna)
     * Broń - Pozwala na wykonanie czwartej akcji kosztem 1 Zmęczenia
     * Pancerz - Ataki przeciwko postaci są wykonywane z utrudnieniem

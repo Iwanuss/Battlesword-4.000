@@ -12,7 +12,7 @@
 * Podnosi rangę odbieranego leczenia o 1
 * Odporność na obrażenia od chaosu
 * Odporność na obrażenia żrące
-* Odpornosć na obrażenia święte
+* Odporność na obrażenia święte
 
 **Spaczony**
 * Utrudnienie w testach defensywnych

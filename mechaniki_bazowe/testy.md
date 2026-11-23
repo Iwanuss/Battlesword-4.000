@@ -46,10 +46,10 @@ Każdy BG dysponuje pulą Szczęścia. Może je wykorzystać na dwa sposoby:
 Na końcu każdej sesji należy wykonać test Szczęścia. Porażka oznacza, że jego wartość podnosi się o 1.
 
 ## Sukcesy i porażki
-Czasem, sama informacja o sukcesie lub porażce to za mało i wymagana jest również wiedza na temat skali tychże. W przypadku sukcesu, mamy do czynienia z 1 poziomem sukcesu za każdy punkt różnicy pomiędzy testowaną statystyką a wynikiem rzutu. W przypadku porażki, na każdy punkt różicy pomiędzy wynikiem rzutu a testowaną statystyką mowa o 1 poziomie porażki.
+Czasem, sama informacja o sukcesie lub porażce to za mało i wymagana jest również wiedza na temat skali tychże. W przypadku sukcesu, mamy do czynienia z 1 poziomem sukcesu za każdy punkt różnicy pomiędzy testowaną statystyką a wynikiem rzutu. W przypadku porażki, na każdy punkt różnicy pomiędzy wynikiem rzutu a testowaną statystyką mowa o 1 poziomie porażki.
 
 ### Krytyczne sukcesy i krytyczne porażki
-Specjalnym typem sukcesów i porażek są ich krytyczne warianty. Mają one wyższą wartość od dowolnego poziomu sukeców lub porażek, również w przypadku testów przeciwstawnych.
+Specjalnym typem sukcesów i porażek są ich krytyczne warianty. Mają one wyższą wartość od dowolnego poziomu sukcesów lub porażek, również w przypadku testów przeciwstawnych.
 
 Jeśli w teście na kości wypadnie wynik 1, należy rzucić dodatkową k20. Jeśli i na niej wypadnie wynik 1, mamy do czynienia z krytycznym sukcesem.
 

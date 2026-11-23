@@ -18,7 +18,7 @@
 Potęga burzy obleczona w formę,
 Uciekaj przed kroczącym sztormem.
 
-Szybuj. Bądź szybki. Nie dozwól nikomu na wtargięcie tu, z góry jak z i dołu, lub twój cel będzie zaprzepaszczony.
+Szybuj. Bądź szybki. Nie dozwól nikomu na wtargnięcie tu, z góry jak z i dołu, lub twój cel będzie zaprzepaszczony.
 
 Przeklęci maszerują wiecznie,
 Przez ich beznadzieję, ostatni wysiłek.

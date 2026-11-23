@@ -8,7 +8,7 @@
 * +1 do Arkan
 
 **Spaczony**
-* Pozwala na zadanie masymalnych obrażeń w dowolnym ataku zadającym obrażenia od Chaosu (wyłącza obrażenia krytyczne)
+* Pozwala na zadanie maksymalnych obrażeń w dowolnym ataku zadającym obrażenia od Chaosu (wyłącza obrażenia krytyczne)
 * Użytkownik traci 1 punkt Poczytalności
 
 ## Opis

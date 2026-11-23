@@ -8,7 +8,7 @@
 * Pancerz - Lekki
 
 ### Błotnisty łowca dżdżownic
-Ignoruje kary za ciężki teren w przypadku błotnistych sektorów. Jego prędkośc to 2 sektory na akcję.
+Ignoruje kary za ciężki teren w przypadku błotnistych sektorów. Jego prędkość to 2 sektory na akcję.
 
 ## Akcje
 ### Dziobnięcie

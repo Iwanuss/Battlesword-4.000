@@ -11,4 +11,4 @@
 * +1 do Zręczności
 
 ## Opis
-Wybebeszacz to bardzo prosty w swojej formie sztylet sprężynowy, którego ostrza zostały specjalnie poząbkowane, by ułatwić krojenie już zranionej tkanki. Jest to idealny oręż stworzony do dobijania już zranionych przeciwników. Przedmiot został dodatkowo zaklęty, aby zawsze być nieco zardzewiałym i pozostawiac utlenione żelazo w ranach oponenta dla dodatkowego skurwysyństwa.
+Wybebeszacz to bardzo prosty w swojej formie sztylet sprężynowy, którego ostrza zostały specjalnie poząbkowane, by ułatwić krojenie już zranionej tkanki. Jest to idealny oręż stworzony do dobijania już zranionych przeciwników. Przedmiot został dodatkowo zaklęty, aby zawsze być nieco zardzewiałym i pozostawiać utlenione żelazo w ranach oponenta dla dodatkowego skurwysyństwa.
